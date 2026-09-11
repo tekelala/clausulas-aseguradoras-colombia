@@ -1,0 +1,23 @@
+{
+  "slug": "andina-compania-de-seguros-de-vida-s-a",
+  "name": "Andina Compañía de Seguros de Vida S.A.",
+  "updated": "2026-09-11T16:00:26.452992+00:00",
+  "files": [
+    {
+      "filename": "Condicionado-Renta-Vitalicia-Inmediata-served-as-Condicionado-Renta-Vitalicia-V2_01082026.pdf.pdf",
+      "sha256": "5f2083ec0e6ce982ca9f1196750af7a39fce2ac01c255fbbb112174264879390",
+      "bytes": 333460,
+      "kind": "condiciones",
+      "source_url": "https://iayhqy.fa.ocs.oraclecloud.com/cs/idcplg?IdcService=GET_FILE&fldFile=fFileGUID:E0B2C1AF384FC55B09BF7F02E77F642B&fldBrowsingMode=contribution",
+      "title": "Condicionado Renta Vitalicia Inmediata (served as Condicionado Renta Vitalicia V2_01082026.pdf)"
+    },
+    {
+      "filename": "Condicionado-Seguro-Previsional-de-Invalidez-y-Sobrevivencia.pdf",
+      "sha256": "25fbd9ff39195b1bfba1b916b62602b0de64c9fd4cdb2b5b5eb276a19f3eb5b8",
+      "bytes": 315760,
+      "kind": "condiciones",
+      "source_url": "https://iayhqy.fa.ocs.oraclecloud.com/cs/idcplg?IdcService=GET_FILE&fldFile=fFileGUID:37D405202E4DF99A9FFF415D79CEEE59&fldBrowsingMode=contribution",
+      "title": "Condicionado Seguro Previsional de Invalidez y Sobrevivencia"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "slug": "berkley-internacional-seguros-colombia-s-a",
+  "name": "Berkley Internacional Seguros Colombia S.A.",
+  "updated": "2026-09-11T16:00:28.283687+00:00",
+  "files": [
+    {
+      "filename": "230801RCE_V9_Binet.pdf",
+      "sha256": "07ce1478f4e6ad35570460ad58bca440d0044cf7c5f56256048dff45ca341d8d",
+      "bytes": 667209,
+      "kind": "condiciones",
+      "source_url": "https://www.berkley.com.co/files/clausulados/responsabilidad-civil/230801RCE_V9_Binet.pdf",
+      "title": "RCE V9 Binet (230801)"
+    },
+    {
+      "filename": "CLAUSULADO_TRANSPORTE_ESPECIFICO_18072022.pdf",
+      "sha256": "541e4ba1776b5717d77e9db59fee05c435ed6084cc9319c1f6a6c4d8636a61c2",
+      "bytes": 884524,
+      "kind": "condiciones",
+      "source_url": "https://www.berkley.com.co/files/clausulados/transportes/CLAUSULADO_TRANSPORTE_ESPECIFICO_18072022.pdf",
+      "title": "Clausulado Transporte Específico 18072022-1347-P-10-0000000DEICC04-000I"
+    },
+    {
+      "filename": "Profesional-Intermediarios.pdf",
+      "sha256": "8c8f9a2c25c8561a77f9267d8954a2c22ccfef2ebfa59b0b7e91e0ec3ccf653c",
+      "bytes": 196194,
+      "kind": "condiciones",
+      "source_url": "https://berkley.com.co/files/clausulados/responsabilidad-civil/Profesional-Intermediarios.pdf",
+      "title": "RC Profesional Intermediarios"
+    },
+    {
+      "filename": "rcest-12122025-RCGCUEST03-V13.pdf",
+      "sha256": "2d21c00111f6176c9da082726d0474f0e30900c20d696d09430396d036eed624",
+      "bytes": 222834,
+      "kind": "condiciones",
+      "source_url": "https://www.berkley.com.co/files/clausulados/cumplimiento/rcest-12122025-RCGCUEST03-V13.pdf",
+      "title": "RCE derivada de Cumplimiento Estatal RCGCUEST03 V13"
+    },
+    {
+      "filename": "rcgeneral-12122025-RCG010-V10.pdf",
+      "sha256": "b1cb2346f0acb9f9d3cca02c37d68a12ea4c96bffd032d5e2d1718116a873015",
+      "bytes": 376667,
+      "kind": "condiciones",
+      "source_url": "https://www.berkley.com.co/files/clausulados/cumplimiento/rcgeneral-12122025-RCG010-V10.pdf",
+      "title": "RC General Cumplimiento RCG010 V10 (12122025)"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "slug": "compania-aseguradora-de-fianzas-s-a-confianza",
+  "name": "Compañía Aseguradora de Fianzas S.A. Confianza",
+  "updated": "2026-09-11T16:02:09.028059+00:00",
+  "files": [
+    {
+      "filename": "SU-OD-01-01-Clausulado-Cumplimiento-contratos-estatales-Ecopetrol.pdf",
+      "sha256": "fed86d29354cd3b3f70ef0837212ca8edcb1d16dc60039fcb9cfb0ffef49657d",
+      "bytes": 170789,
+      "kind": "condiciones",
+      "source_url": "https://confianza.directus.app/assets/f970e2dc-c4ff-4cbf-a441-1620d7064052",
+      "title": "SU-OD-01-01 Clausulado Cumplimiento contratos estatales Ecopetrol"
+    },
+    {
+      "filename": "SU-OD-01-02-Clausulado-Pliza-nica-Cumplimiento-Ecopetrol.pdf",
+      "sha256": "086830373aaced415ede6486f6483a62931662ab66bfa48f71d4fd4a70168571",
+      "bytes": 248428,
+      "kind": "condiciones",
+      "source_url": "https://confianza.directus.app/assets/f00f42c1-4418-4f10-831a-c38fa9505c1c",
+      "title": "SU-OD-01-02 Clausulado Póliza Única Cumplimiento Ecopetrol"
+    },
+    {
+      "filename": "SU-OD-01-05-Clausulado-Cumplimiento-Ecopetrol.pdf",
+      "sha256": "0f9582dfbc294b420fb3f5f83e95bc9200e8079ee2dc731a99bd853a8e0acaa0",
+      "bytes": 760217,
+      "kind": "condiciones",
+      "source_url": "https://confianza.directus.app/assets/63a59591-cf2f-43df-af82-8351ace5c9ea",
+      "title": "SU-OD-01-05 Clausulado Cumplimiento Ecopetrol"
+    },
+    {
+      "filename": "SU-OD-04-05-Clausulado-RC-Extracontractual.pdf",
+      "sha256": "3e526b439e373d0da0c1dc493544ed2cf42fcb4eaec000ace1aac388f9a268e9",
+      "bytes": 394113,
+      "kind": "condiciones",
+      "source_url": "https://confianza.directus.app/assets/f8cf71fa-0871-4951-8f80-8c96902a5b71",
+      "title": "SU-OD-04-05 Clausulado RC Extracontractual"
+    },
+    {
+      "filename": "SU-OD-09-03-Clausulado-Seguro-RC-Mdica.pdf",
+      "sha256": "25c66789e5b2dfbcc324145a850562bbee90d400448ba756e6af8afaa9ffa3bb",
+      "bytes": 121057,
+      "kind": "condiciones",
+      "source_url": "https://confianza.directus.app/assets/2899eb96-679e-46f7-bb2d-2e04c8484308",
+      "title": "SU-OD-09-03 Clausulado Seguro RC Médica"
+    },
+    {
+      "filename": "SU-OD-11-04_CLAUSULADO_POLIZA_DE_RESPONSABILIDAD_CIVIL_CLINICAS_Y_HOSPITALES.pdf",
+      "sha256": "fee55438acfc98ab0d5c46abe4b6c0a42d1c9489c14b2d14a9039153367c282f",
+      "bytes": 203218,
+      "kind": "condiciones",
+      "source_url": "https://www.confianza.com.co/assets/documents/SU-OD-11-04_CLAUSULADO_POLIZA_DE_RESPONSABILIDAD_CIVIL_CLINICAS_Y_HOSPITALES.pdf",
+      "title": "SU-OD-11-04     Clausulado Póliza de Responsabilidad Civil Clínicas y Hospitales"
+    },
+    {
+      "filename": "SU-OD-35-02-CLAUSULADO-POLIZA-DE-SEGURO-CONTRA-TODO-RIESGO-DAO-MATERIAL.pdf",
+      "sha256": "a6991dcf673c201bb951441f8be94fb895ffb16af59d6214fd995fa74cd6769a",
+      "bytes": 858467,
+      "kind": "condiciones",
+      "source_url": "https://www.confianza.com.co/assets/images/documents/clausulados/SU-OD-35-02%20CLAUSULADO%20POLIZA%20DE%20SEGURO%20CONTRA%20TODO%20RIESGO%20DAÑO%20MATERIAL.pdf",
+      "title": "SU-OD-35-02     Clausulado Póliza de Seguro Contra Todo Riesgo Daño Material"
+    },
+    {
+      "filename": "SU-OD-51-02_CLAUSULADO_POLIZA_DE_SEGURO_DE_RCE_ANI_Decreto_1082_DE_2015.pdf",
+      "sha256": "af337a1882b5c209cc40258e38c7fc4dc0f552235bf8f2ed61c8192aae0314d5",
+      "bytes": 231125,
+      "kind": "condiciones",
+      "source_url": "https://www.confianza.com.co/assets/documents/SU-OD-51-02_CLAUSULADO_POLIZA_DE_SEGURO_DE_RCE_ANI_Decreto_1082_DE_2015.pdf",
+      "title": "SU-OD-51-02     Clausulado Póliza de Seguro de RCE ANI Decreto 1082 de 2015"
+    },
+    {
+      "filename": "SU-OD-58-02-CLAUSULADO-GENERAL-VIDA-GRUPO.pdf",
+      "sha256": "8e875aa2eebfa26f8f50c3df07d4c45135315842c5c5e6069229474508117dcd",
+      "bytes": 584138,
+      "kind": "condiciones",
+      "source_url": "https://www.confianza.com.co/assets/images/documents/clausulados/SU-OD-58-02%20CLAUSULADO%20GENERAL%20VIDA%20GRUPO.pdf",
+      "title": "SU-OD-58-02     Clausulado general de Vida Grupo"
+    },
+    {
+      "filename": "SU-OD-88-01-CLAUSULADO-POLIZA-DEL-SEGURO-DE-PROPIEDAD-PARA-PROGRAMAS-DE-SEGURO-INTERNACIONAL.pdf",
+      "sha256": "6d705ee8919d33e276c2be8bbb1f739027b13c4d46f777cd9e972132fd231335",
+      "bytes": 892874,
+      "kind": "condiciones",
+      "source_url": "https://www.confianza.com.co/assets/images/documents/clausulados/SU-OD-88-01%20CLAUSULADO%20POLIZA%20DEL%20SEGURO%20DE%20PROPIEDAD%20PARA%20PROGRAMAS%20DE%20SEGURO%20INTERNACIONAL.pdf",
+      "title": "SU-OD-88-01     Clausulado Póliza del Seguro de Propiedad para Programas de Seguro Internacional"
+    }
+  ]
+}

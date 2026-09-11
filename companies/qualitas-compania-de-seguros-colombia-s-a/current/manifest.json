@@ -1,0 +1,31 @@
+{
+  "slug": "qualitas-compania-de-seguros-colombia-s-a",
+  "name": "Quálitas Compañía de Seguros Colombia S.A.",
+  "updated": "2026-09-11T16:03:40.278320+00:00",
+  "files": [
+    {
+      "filename": "Clausulado-Automviles-Livianos-Comerciales.pdf",
+      "sha256": "66629c60b296e6bb3c3e884833e0094ae39a06ba5f706d963dddb2d2d4f8c54a",
+      "bytes": 5138734,
+      "kind": "condiciones",
+      "source_url": "https://www.qualitascolombia.com.co/documents/20125/596596/Clausulado+Automoviles+Livianos+Comerciales.pdf/978b117c-42c3-4da3-c340-865bd4acf9e1?t=1756768332750",
+      "title": "Clausulado Automóviles Livianos Comerciales"
+    },
+    {
+      "filename": "Clausulado-Autos-Livianos-01012025-cdigo-SFC.pdf",
+      "sha256": "4eebe33f8e4ea331f3162f8e03ba971081a32613e57ef9ed8ea99ff1d813d902",
+      "bytes": 484840,
+      "kind": "condiciones",
+      "source_url": "https://www.qualitascolombia.com.co/documents/20125/596596/Qu%C3%A1litas.+Clausulado+Autos+Livianos+01012025-1352-P-03-AUTOLIVIANOPER01-D00I.pdf/42f136f2-da5f-52cf-e110-8b5ec324fe25?t=1747185970198",
+      "title": "Clausulado Autos Livianos 01012025 (código SFC)"
+    },
+    {
+      "filename": "Pliza-Autos-y-Pickups-Uso-Personal-01082025.pdf",
+      "sha256": "c8da0330f1699def100e336c9d38dd8e5ac0c07509d14d2ced4b893a5e06f899",
+      "bytes": 4696527,
+      "kind": "condiciones",
+      "source_url": "https://www.qualitascolombia.com.co/documents/20125/596596/POLIZA+DE+SEGURO+PARA+AUTOS+Y+PICKUPS+DE+USO+PERSONAL+01082025_.pdf/90ed542a-26f3-3075-874d-7ac509c8814a?t=1759274723204",
+      "title": "Póliza Autos y Pickups Uso Personal 01082025"
+    }
+  ]
+}

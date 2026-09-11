@@ -4,7 +4,7 @@ This is the method used to fill this repo, written so a later pass can improve i
 
 **Scope:** condiciones generales / cláusulas, anexos, tarifarios from the 39 Fasecolda affiliates. No marketing PDFs. Sister companies (e.g. Seguros de Vida Suramericana) stay out unless added later.
 
-**Repo vs binaries:** GitHub holds roster, source map, and the SHA-256 catalog (`manifest.json`). PDF bytes may live locally when the Contents API is a poor fit. Re-download from `source_url`.
+**Repo vs binaries:** PDFs live under `companies/<slug>/current/` on GitHub. `manifest.json` is the SHA-256 catalog. Re-scrape updates both.
 
 ## Pipeline
 
