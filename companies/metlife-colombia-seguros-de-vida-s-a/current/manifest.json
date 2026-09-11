@@ -1,0 +1,871 @@
+{
+  "slug": "metlife-colombia-seguros-de-vida-s-a",
+  "name": "MetLife Colombia Seguros de Vida S.A.",
+  "updated": "2026-09-11T16:03:31.792295+00:00",
+  "files": [
+    {
+      "filename": "MLVCLGEB096_0-COL-ED02_2025-RAMO-COLECTIVO-DE-VIDA-1-VIDA-COLECTIVO-EB.pdf",
+      "sha256": "09c27da397a590ba3bf1cb66e16f6a464242b1f2dc9b7f66e53f78ed926194e2",
+      "bytes": 1319706,
+      "kind": "condiciones",
+      "source_url": "https://www.metlife.com.co/content/dam/metlifecom/co/PDFs/eb-vida/condicionados-2025/MLVCLGEB096_0-COL-ED02_2025-RAMO-COLECTIVO-DE-VIDA-1-VIDA-COLECTIVO-EB.pdf",
+      "title": "CLAUSULADO VIDA COLECTIVO"
+    },
+    {
+      "filename": "MLVCLGEB099_0-COL-ED5_2026-EB-00-CLAUSULADO-VIDA-GRUPO.pdf",
+      "sha256": "3319926781ffc0bbd72617d5a23d1b3de17406c327f29dfcbb51cf9c51dbab39",
+      "bytes": 979259,
+      "kind": "condiciones",
+      "source_url": "https://www.metlife.com.co/content/dam/metlifecom/co/PDFs/eb-vida/condicionados-2025/MLVCLGEB099_0-COL-ED5_2026-EB-00-CLAUSULADO-VIDA-GRUPO.pdf",
+      "title": "Clausulado Vida Grupo EB ED5 2026"
+    },
+    {
+      "filename": "Seguro-de-Vida-Anexo-de-Exoneracion-de-Pago-de-Primas-por-Incapacidad-Total-y-Permanente.pdf",
+      "sha256": "fd101063c1203717334c686d591accd7ff1a5a0da33139e776e4061406942429",
+      "bytes": 108167,
+      "kind": "anexo",
+      "source_url": "https://www.metlife.com.co/content/dam/metlifecom/co/PDFs/condiciones-generales/Individuales-faqs/vida-n/anexo-2018/Seguro-de-Vida-Anexo-de-Exoneracion-de-Pago-de-Primas-por-Incapacidad-Total-y-Permanente.pdf",
+      "title": "ANEXO DE EXONERACIÓN DE PAGO DE PRIMAS POR INCAPACIDAD TOTAL Y PERMANENTE"
+    },
+    {
+      "filename": "Seguro-de-Vida-Anexo-de-Pago-de-Beneficio-por-Incapacidad-Total-y-Permanente.pdf",
+      "sha256": "e75d6187ab68e15450a87d8c665347ba4490f5fe0802dcfc6b042a721987752d",
+      "bytes": 105132,
+      "kind": "anexo",
+      "source_url": "https://www.metlife.com.co/content/dam/metlifecom/co/PDFs/condiciones-generales/Individuales-faqs/vida-n/anexo-2018/Seguro-de-Vida-Anexo-de-Pago-de-Beneficio-por-Incapacidad-Total-y-Permanente.pdf",
+      "title": "ANEXO DE PAGO DE BENEFICIO POR INCAPACIDAD TOTAL Y PERMANENTE"
+    },
+    {
+      "filename": "anexo-exoneracion-de-pago-de-primas-por-incapacidad-total-y-permanente.pdf",
+      "sha256": "8f577948a6d36da1025cef063f1aa3b6175c618967d5b6fc4cd5c9183e944308",
+      "bytes": 1295225,
+      "kind": "anexo",
+      "source_url": "https://www.metlife.com.co/content/dam/metlifecom/co/PDFs/condiciones-generales/Individuales-faqs/vida-n/anexo-2023/anexo-exoneracion-de-pago-de-primas-por-incapacidad-total-y-permanente.pdf",
+      "title": "AMPARO ADICIONAL - EXONERACIÓN DE PAGO DE PRIMAS POR INCAPACIDAD TOTAL Y PERMANENTE"
+    },
+    {
+      "filename": "anexo-incapacidad-total-y-permanente.pdf",
+      "sha256": "87a735b629ba80ed8091640009381d7949092fc1c4c08ab1caeb10d0976746ca",
+      "bytes": 883917,
+      "kind": "anexo",
+      "source_url": "https://www.metlife.com.co/content/dam/metlifecom/co/PDFs/condiciones-generales/Individuales-faqs/vida-n/anexo-2023/anexo-incapacidad-total-y-permanente.pdf",
+      "title": "Anexo ITP 2023"
+    },
+    {
+      "filename": "clausulado-general-consolidado-vg.pdf",
+      "sha256": "b823095a8a545981fe971dd9b94ab9726d293d101e488ed3b2986d75b1e9aff2",
+      "bytes": 454894,
+      "kind": "condiciones",
+      "source_url": "https://www.metlife.com.co/content/dam/metlifecom/co/PDFs/eb-vida/condicionados-2019/clausulado-general-consolidado-vg.pdf",
+      "title": "CLAUSULADO GENERAL VIDA GRUPO"
+    },
+    {
+      "filename": "clausulado-vida-entera.pdf",
+      "sha256": "06dfba8fafd0f3a3e77d2c156ffda61779b10632e73eec16f71a10689e6c5937",
+      "bytes": 1220679,
+      "kind": "condiciones",
+      "source_url": "https://www.metlife.com.co/content/dam/metlifecom/co/PDFs/condiciones-generales/Individuales-faqs/vida-n/condicionado-2023/clausulado-vida-entera.pdf",
+      "title": "Clausulado Vida Entera 2023"
+    },
+    {
+      "filename": "mlnvcldm409_0-col-ed7_2027-clausulado-serfinanza-tco-sin-fotos.pdf",
+      "sha256": "1c1240a0ebfb3389920644e04391e7e887e713ee529699098dcbea8d3814d23d",
+      "bytes": 176801,
+      "kind": "condiciones",
+      "source_url": "https://www.metlife.com.co/content/dam/metlifecom/co/PDFs/condiciones-generales/Masivos/vida-deudor/mlnvcldm409_0---col---ed7_2027---clausulado-serfinanza-tco-sin-fotos.pdf",
+      "title": "Clausulado Vida Deudor- Tarjeta de Crédito, Crédito Rotativo (CR) y crédito a Largo Plazo (ALP)"
+    },
+    {
+      "filename": "mlnvcldm409_0-col-ed7_2027-clausulado-serfinanza-tco.pdf",
+      "sha256": "78d4534a7470c3476468c9e473e9eddeee3e0dc5daf202b3e56af9a82eb5ee73",
+      "bytes": 178277,
+      "kind": "condiciones",
+      "source_url": "https://www.metlife.com.co/content/dam/metlifecom/co/PDFs/condiciones-generales/Masivos/vida-deudor/mlnvcldm409_0---col---ed7_2027---clausulado-serfinanza-tco.pdf",
+      "title": "Clausulado Vida Deudor- Tarjeta de Crédito, Crédito Rotativo (CR) y crédito a Largo Plazo (ALP) (Julio2025)"
+    },
+    {
+      "filename": "mlnvcldm410_0-col-ed7_2027-clausulado-serfinanza-credito-sin-garantia.pdf",
+      "sha256": "29c648e71acc344bc0bb72c4c31c3923187ba60c67b9a3431877cd714c318160",
+      "bytes": 186010,
+      "kind": "condiciones",
+      "source_url": "https://www.metlife.com.co/content/dam/metlifecom/co/PDFs/condiciones-generales/Masivos/vida-deudor/mlnvcldm410_0---col---ed7_2027---clausulado-serfinanza-credito-sin-garantia.pdf",
+      "title": "Clausulado Vida Deudor - Crédito sin Garantía Hipotecaria (Julio 2025)"
+    },
+    {
+      "filename": "mlnvcldm410_0-col-ed7_2027-clausulado-serfinanza-cto-sin-garantias-sin-fotos.pdf",
+      "sha256": "c50fd0ba2323593ff11fef36eabf902d0e6749b0d48e9a588ec3796c61ce96a8",
+      "bytes": 185667,
+      "kind": "condiciones",
+      "source_url": "https://www.metlife.com.co/content/dam/metlifecom/co/PDFs/condiciones-generales/Masivos/vida-deudor/mlnvcldm410_0---col---ed7_2027---clausulado-serfinanza-cto-sin-garantias-sin-fotos.pdf",
+      "title": "Clausulado Vida Deudor - Crédito sin Garantía Hipotecaria"
+    },
+    {
+      "filename": "mlnvcldm439-0-col-ed7-2028-clausulado-serfinanza-julio-31-de-2026.pdf",
+      "sha256": "5ddcdd056950d5354a471d1dfcc7f0655a2c9bca4866dabb9330de8553350cdc",
+      "bytes": 2257812,
+      "kind": "condiciones",
+      "source_url": "https://www.metlife.com.co/content/dam/metlifecom/co/PDFs/condiciones-generales/Masivos/vida-deudor/mlnvcldm439-0-col-ed7-2028-clausulado-serfinanza-julio-31-de-2026.pdf",
+      "title": "Clausulado Vida Deudor"
+    },
+    {
+      "filename": "mlvangeb168_0-col-ed02_2025-ramo_colectivo_de_vida-5.anexo_de_auxilio_gastos_funerarios.pdf",
+      "sha256": "a202e4829e5e999c4dca91d0452723f73ab4777a9e0c7875c54eeaeba0611cb5",
+      "bytes": 134505,
+      "kind": "anexo",
+      "source_url": "https://www.metlife.com.co/content/dam/metlifecom/co/PDFs/eb-vida/anexos-2023/mlvangeb168_0-col-ed02_2025-ramo_colectivo_de_vida-5.anexo_de_auxilio_gastos_funerarios.pdf",
+      "title": "VIDA COLECTIVO | AUXILIO GASTOS FUNERARIOS"
+    },
+    {
+      "filename": "mlvangeb169_0-col-ed02_2025-ramo_colectivo_de_vida-6.anexo_de_auxilio_para_gasto_del_hogar-plan_canasta_por_muerte.pdf",
+      "sha256": "32f22bc9acb44a4099bf523658621b861f1985973c945929affb323b666b01f9",
+      "bytes": 327033,
+      "kind": "anexo",
+      "source_url": "https://www.metlife.com.co/content/dam/metlifecom/co/PDFs/eb-vida/anexos-2023/mlvangeb169_0-col-ed02_2025-ramo_colectivo_de_vida-6.anexo_de_auxilio_para_gasto_del_hogar-plan_canasta_por_muerte.pdf",
+      "title": "VIDA COLECTIVO | AUXILIO PARA GASTO DEL HOGAR PLAN CANASTA POR MUERTE"
+    },
+    {
+      "filename": "mlvangeb170_0-col-ed02_2025-ramo_colectivo_de_vida-7.anexo_de_auxilio_para_gasto_del_hoga-plan_canasta_por_itp.pdf",
+      "sha256": "f858d4c674a8f69ecd5ac6c0c04a11d94139a435cbb8c2cd7f3169fbbf898c93",
+      "bytes": 390723,
+      "kind": "anexo",
+      "source_url": "https://www.metlife.com.co/content/dam/metlifecom/co/PDFs/eb-vida/anexos-2023/mlvangeb170_0-col-ed02_2025-ramo_colectivo_de_vida-7.anexo_de_auxilio_para_gasto_del_hoga-plan_canasta_por_itp.pdf",
+      "title": "VIDA COLECTIVO | AUXILIO PARA GASTOS DEL HOGAR PLAN CANASTA POR INCAPACIDAD TOTAL Y PERMANENTE"
+    },
+    {
+      "filename": "mlvangeb171_0-col-ed02_2025-ramo_colectivo_de_vida-8.anexo_de_auxilio_de_repatriacion_de_restos_funebres.pdf",
+      "sha256": "533a9f842746e381e94cbcf3caa1c09f0efdac7db55a0d95f002a3bd8a8069cd",
+      "bytes": 289851,
+      "kind": "anexo",
+      "source_url": "https://www.metlife.com.co/content/dam/metlifecom/co/PDFs/eb-vida/anexos-2023/mlvangeb171_0-col-ed02_2025-ramo_colectivo_de_vida-8.anexo_de_auxilio_de_repatriacion_de_restos_funebres.pdf",
+      "title": "VIDA COLECTIVO | AUXILIO DE REPATRIACIÓN DE RESTOS FÚNEBRES"
+    },
+    {
+      "filename": "mlvangeb172_0-col-ed02_2025-ramo_colectivo_de_vida-9.anexo_de_auxilio_de_traslado_de_restos_funebres.pdf",
+      "sha256": "52021751954e7abb8fca3da719e07ffaf5b37543f9cf1d4f779d13e94a64c420",
+      "bytes": 562295,
+      "kind": "anexo",
+      "source_url": "https://www.metlife.com.co/content/dam/metlifecom/co/PDFs/eb-vida/anexos-2023/mlvangeb172_0-col-ed02_2025-ramo_colectivo_de_vida-9.anexo_de_auxilio_de_traslado_de_restos_funebres.pdf",
+      "title": "VIDA COLECTIVO | AUXILIO DE TRASLADO DE RESTOS FÚNEBRES"
+    },
+    {
+      "filename": "mlvangeb173_0-col-ed02_2025-ramo_colectivo_de_vida-10.anexo_de_cobertura_por_muerte_accidental.pdf",
+      "sha256": "21746f9c6f7a7d99bc71f10390ea7b4597ab3ddcbd3b6e9f01ce4abd70140583",
+      "bytes": 1216755,
+      "kind": "anexo",
+      "source_url": "https://www.metlife.com.co/content/dam/metlifecom/co/PDFs/eb-vida/anexos-2023/mlvangeb173_0-col-ed02_2025-ramo_colectivo_de_vida-10.anexo_de_cobertura_por_muerte_accidental.pdf",
+      "title": "VIDA COLECTIVO | COBERTURA POR MUERTE ACCIDENTAL"
+    },
+    {
+      "filename": "mlvangeb174_0-col-ed02_2025-ramo_colectivo_de_vida-11.anexo_de_desmembracion_por_accidente.pdf",
+      "sha256": "16a5ee7de646aacd69fa7dc5fe9e8bf26292db7a2a08e1ef21bc84f2e992f677",
+      "bytes": 1055923,
+      "kind": "anexo",
+      "source_url": "https://www.metlife.com.co/content/dam/metlifecom/co/PDFs/eb-vida/anexos-2023/mlvangeb174_0-col-ed02_2025-ramo_colectivo_de_vida-11.anexo_de_desmembracion_por_accidente.pdf",
+      "title": "VIDA COLECTIVO | DEMEMBRACIÓN POR ACCIDENTE"
+    },
+    {
+      "filename": "mlvangeb175_0-col-ed02_2025-ramo_colectivo_de_vida-12.anexo_de_reembolso_de_gastos_medicos_por_accidente.pdf",
+      "sha256": "c6f8aaa82ae0e8e4eea6fc13ec0823b19d418384d3dc4b7af98b7d524b016472",
+      "bytes": 1011566,
+      "kind": "anexo",
+      "source_url": "https://www.metlife.com.co/content/dam/metlifecom/co/PDFs/eb-vida/anexos-2023/mlvangeb175_0-col-ed02_2025-ramo_colectivo_de_vida-12.anexo_de_reembolso_de_gastos_medicos_por_accidente.pdf",
+      "title": "VIDA COLECTIVO | REEMBOLSO DE GASTOS MEDICOS POR ACCIDENTE"
+    },
+    {
+      "filename": "mlvangeb176_0-col-ed02_2025-ramo_colectivo_de_vida-13.anexo_de_renta_diaria_por_hositalizacion_a_causa_de_accidente_y_o_enfermedad.pdf",
+      "sha256": "6f9337f813be95109a22b33a3e0ef99a757622d0a3d9294b622146e2942fc27b",
+      "bytes": 433235,
+      "kind": "anexo",
+      "source_url": "https://www.metlife.com.co/content/dam/metlifecom/co/PDFs/eb-vida/anexos-2023/mlvangeb176_0-col-ed02_2025-ramo_colectivo_de_vida-13.anexo_de_renta_diaria_por_hositalizacion_a_causa_de_accidente_y_o_enfermedad.pdf",
+      "title": "VIDA COLECTIVO | RENTA DIARIA POR HOSPITALIZACIÓN A CAUSA DE ACCIDENTE Y/O ENFERMEDAD"
+    },
+    {
+      "filename": "mlvangeb177_0-col-ed02_2025-ramo_colectivo_de_vida-14.anexo_de_renta_diaria_por_hositalizacion_por_accidente.pdf",
+      "sha256": "2f7d7df37872eee7d78d64a078446488a79e9d1ab6b7a677eab1157dbd79dd8e",
+      "bytes": 141291,
+      "kind": "anexo",
+      "source_url": "https://www.metlife.com.co/content/dam/metlifecom/co/PDFs/eb-vida/anexos-2023/mlvangeb177_0-col-ed02_2025-ramo_colectivo_de_vida-14.anexo_de_renta_diaria_por_hositalizacion_por_accidente.pdf",
+      "title": "VIDA COLECTIVO | RENTA DIARIA POR HOSPITALIZACIÓN POR ACCIDENTE"
+    },
+    {
+      "filename": "mlvangeb178_0-col-ed02_2025-ramo_colectivo_de_vida-15.anexo_de_renta_diaria_por_hositalizacion_en_uci_por_accidente.pdf",
+      "sha256": "796e7d96a5bc5a15422258eaa976351cfe3276b2fd202429524280f4636aa6a2",
+      "bytes": 339279,
+      "kind": "anexo",
+      "source_url": "https://www.metlife.com.co/content/dam/metlifecom/co/PDFs/eb-vida/anexos-2023/mlvangeb178_0-col-ed02_2025-ramo_colectivo_de_vida-15.anexo_de_renta_diaria_por_hositalizacion_en_uci_por_accidente.pdf",
+      "title": "VIDA COLECTIVO | RENTA DIARIA POR HOSPITALIZACIÓN EN UCI POR ACCIDENTE"
+    },
+    {
+      "filename": "mlvangeb179_0-col-ed02_2025-ramo_colectivo_de_vida-16.anexo_de_renta_diaria_por_hositalizacion_en_uci_por_accidente_y_o_enfermedad.pdf",
+      "sha256": "f6204bf56454a086dbca5429ff19017d5d6ce885487dea6714730eaf2374c953",
+      "bytes": 406357,
+      "kind": "anexo",
+      "source_url": "https://www.metlife.com.co/content/dam/metlifecom/co/PDFs/eb-vida/anexos-2023/mlvangeb179_0-col-ed02_2025-ramo_colectivo_de_vida-16.anexo_de_renta_diaria_por_hositalizacion_en_uci_por_accidente_y_o_enfermedad.pdf",
+      "title": "VIDA COLECTIVO | RENTA DIARIA POR HOSPITALIZACIÓN EN UCI POR ACCIDENTE Y/O ENFERMEDAD"
+    },
+    {
+      "filename": "mlvangeb180_0-col-ed02_2025-ramo_colectivo_de_vida-17.1-anexo_de_enfermedades_graves-7_enfermedades.pdf",
+      "sha256": "5db1ab324b122071350cdf4f511f42e95099f3d201c38657e760ebae16cb2588",
+      "bytes": 794373,
+      "kind": "anexo",
+      "source_url": "https://www.metlife.com.co/content/dam/metlifecom/co/PDFs/eb-vida/anexos-2023/mlvangeb180_0-col-ed02_2025-ramo_colectivo_de_vida-17.1-anexo_de_enfermedades_graves-7_enfermedades.pdf",
+      "title": "VIDA COLECTIVO | ENFERMEDAD GRAVE: 7 ENFERMEDAD"
+    },
+    {
+      "filename": "mlvangeb181_0-col-ed02_2025-ramo_colectivo_de_vida-17.2-anexo_de_enfermedad_grave_accidente_cerebro_vascular.pdf",
+      "sha256": "0de2dd7f62ab10e2b285b80c71a38fde681c5b583d6e6f1b41e52119e7dbe43a",
+      "bytes": 409418,
+      "kind": "anexo",
+      "source_url": "https://www.metlife.com.co/content/dam/metlifecom/co/PDFs/eb-vida/anexos-2023/mlvangeb181_0-col-ed02_2025-ramo_colectivo_de_vida-17.2-anexo_de_enfermedad_grave_accidente_cerebro_vascular.pdf",
+      "title": "VIDA COLECTIVO | ENFERMEDAD GRAVE: ACCIDENTE CEREBRO VASCULAR"
+    },
+    {
+      "filename": "mlvangeb182_0-col-ed02_2025-ramo_colectivo_de_vida-17.3-anexo_de_enfermedad_grave_alzheimer.pdf",
+      "sha256": "dbd74827d4d89a88245d4fd911da1736627f880ec2efee9d682c3b4dabb4e176",
+      "bytes": 454846,
+      "kind": "anexo",
+      "source_url": "https://www.metlife.com.co/content/dam/metlifecom/co/PDFs/eb-vida/anexos-2023/mlvangeb182_0-col-ed02_2025-ramo_colectivo_de_vida-17.3-anexo_de_enfermedad_grave_alzheimer.pdf",
+      "title": "VIDA COLECTIVO | ENFERMEDAD GRAVE: ALZHEIMER"
+    },
+    {
+      "filename": "mlvangeb183_0-col-ed02_2025-ramo_colectivo_de_vida-17.4-anexo_de_enfermedad_grave_anemia_aplasica.pdf",
+      "sha256": "92bcb3f146030acd3447bb0d03dd4640a79930e5c91b67350e78b5edcd170378",
+      "bytes": 917850,
+      "kind": "anexo",
+      "source_url": "https://www.metlife.com.co/content/dam/metlifecom/co/PDFs/eb-vida/anexos-2023/mlvangeb183_0-col-ed02_2025-ramo_colectivo_de_vida-17.4-anexo_de_enfermedad_grave_anemia_aplasica.pdf",
+      "title": "VIDA COLECTIVO | ENFERMEDAD GRAVE: ANEMIA APLÁSICA"
+    },
+    {
+      "filename": "mlvangeb184_0-col-ed02_2025-ramo_colectivo_de_vida-17.5-anexo_de_enfermedad_grave_angioplastia_coronaria_de_dos_o_mas_arterias.pdf",
+      "sha256": "1179d56119f4a3a12283355b80fb20f852258bec8ceeebf7b69f443d66492bfd",
+      "bytes": 1179165,
+      "kind": "anexo",
+      "source_url": "https://www.metlife.com.co/content/dam/metlifecom/co/PDFs/eb-vida/anexos-2023/mlvangeb184_0-col-ed02_2025-ramo_colectivo_de_vida-17.5-anexo_de_enfermedad_grave_angioplastia_coronaria_de_dos_o_mas_arterias.pdf",
+      "title": "VIDA COLECTIVO | ENFERMEDAD GRAVE: ANGIOPLASTIA CORONARIA DE DOS O MÁS ARTERIAS"
+    },
+    {
+      "filename": "mlvangeb185_0-col-ed02_2025-ramo_colectivo_de_vida-17.6-anexo_de_enfermedad_grave_cancer.pdf",
+      "sha256": "abea5ff3f07b4cade01192c1043eb821275afa8864cf3dbc84825df8795c4f61",
+      "bytes": 1176941,
+      "kind": "anexo",
+      "source_url": "https://www.metlife.com.co/content/dam/metlifecom/co/PDFs/eb-vida/anexos-2023/mlvangeb185_0-col-ed02_2025-ramo_colectivo_de_vida-17.6-anexo_de_enfermedad_grave_cancer.pdf",
+      "title": "VIDA COLECTIVO | ENFERMEDAD GRAVE: CÁNCER"
+    },
+    {
+      "filename": "mlvangeb186_0-col-ed02_2025-ramo_colectivo_de_vida-17.7-anexo_de_enfermedad_grave_ceguera.pdf",
+      "sha256": "f615506b7d013f1dad068aaa151d6542a9fd13300f4dc691fc8dd766ebcda4c5",
+      "bytes": 727285,
+      "kind": "anexo",
+      "source_url": "https://www.metlife.com.co/content/dam/metlifecom/co/PDFs/eb-vida/anexos-2023/mlvangeb186_0-col-ed02_2025-ramo_colectivo_de_vida-17.7-anexo_de_enfermedad_grave_ceguera.pdf",
+      "title": "VIDA COLECTIVO | ENFERMEDAD GRAVE: CEGUERA"
+    },
+    {
+      "filename": "mlvangeb187_0-col-ed02_2025-ramo_colectivo_de_vida-17.8-anexo_de_enfermedad_grave_cirugiade_injerto_en_la_aorta.pdf",
+      "sha256": "37f89d5c1d8d3456b87dcd08f2ea98b520433445f90a0dc1f72116737bae7d09",
+      "bytes": 1125606,
+      "kind": "anexo",
+      "source_url": "https://www.metlife.com.co/content/dam/metlifecom/co/PDFs/eb-vida/anexos-2023/mlvangeb187_0-col-ed02_2025-ramo_colectivo_de_vida-17.8-anexo_de_enfermedad_grave_cirugiade_injerto_en_la_aorta.pdf",
+      "title": "VIDA COLECTIVO | ENFERMEDAD GRAVE: CIRUGÍA DE INJERTO EN LA AORTA"
+    },
+    {
+      "filename": "mlvangeb188_0-col-ed02_2025-ramo_colectivo_de_vida-17.9-anexo_de_enfermedad_grave_enfermedades_de_la_neurona_motora.pdf",
+      "sha256": "47ee5812477d8e587ec79c004cc4ed3535c2427a548befa10a38d78c32c3e54c",
+      "bytes": 885441,
+      "kind": "anexo",
+      "source_url": "https://www.metlife.com.co/content/dam/metlifecom/co/PDFs/eb-vida/anexos-2023/mlvangeb188_0-col-ed02_2025-ramo_colectivo_de_vida-17.9-anexo_de_enfermedad_grave_enfermedades_de_la_neurona_motora.pdf",
+      "title": "VIDA COLECTIVO | ENFERMEDAD GRAVE: ENFERMEDADES DE LA NEURONA MOTORA"
+    },
+    {
+      "filename": "mlvangeb189_0-col-ed02_2025-ramo_colectivo_de_vida-17.10-anexo_de_enfermedad_grave_enfermedades_de_las_arterias_coronarias_tratadas_con_by_pass.pdf",
+      "sha256": "59c083a8d1cabf015c07d3873e21e930f46aaf954abcf6b4292dfe82e536b42d",
+      "bytes": 919868,
+      "kind": "anexo",
+      "source_url": "https://www.metlife.com.co/content/dam/metlifecom/co/PDFs/eb-vida/anexos-2023/mlvangeb189_0-col-ed02_2025-ramo_colectivo_de_vida-17.10-anexo_de_enfermedad_grave_enfermedades_de_las_arterias_coronarias_tratadas_con_by_pass.pdf",
+      "title": "VIDA COLECTIVO | ENFERMEDAD GRAVE: ENFERMEDADES DE LAS ARTERIAS CORONARIAS TRATADAS CON BY PASS"
+    },
+    {
+      "filename": "mlvangeb190_0-col-ed03_2025-ramo_colectivo_de_vida-17.11-anexo_de_enfermedad_grave_esclerosis_lateral_amiotrofica.pdf",
+      "sha256": "0cd1898804ee6e15c80606048e2608633e2e99019327489a6f5a3ef977d90d08",
+      "bytes": 721226,
+      "kind": "anexo",
+      "source_url": "https://www.metlife.com.co/content/dam/metlifecom/co/PDFs/eb-vida/anexos-2023/mlvangeb190_0-col-ed03_2025-ramo_colectivo_de_vida-17.11-anexo_de_enfermedad_grave_esclerosis_lateral_amiotrofica.pdf",
+      "title": "VIDA COLECTIVO | ENFERMEDAD GRAVE: ESCLEROSIS LATERAL AMIOTRÓFICA"
+    },
+    {
+      "filename": "mlvangeb191_0-col-ed03_2025-ramo_colectivo_de_vida-17.12-anexo_de_enfermedad_grave_esclerosis_multiple.pdf",
+      "sha256": "df55453059f25a229113765d6df2b286fc785e07ffd203cf3fcf4488d0a5753b",
+      "bytes": 594720,
+      "kind": "anexo",
+      "source_url": "https://www.metlife.com.co/content/dam/metlifecom/co/PDFs/eb-vida/anexos-2023/mlvangeb191_0-col-ed03_2025-ramo_colectivo_de_vida-17.12-anexo_de_enfermedad_grave_esclerosis_multiple.pdf",
+      "title": "VIDA COLECTIVO | ENFERMEDAD GRAVE: ESCLEROSIS MÚLTIPLE"
+    },
+    {
+      "filename": "mlvangeb192_0-col-ed03_2025-ramo_colectivo_de_vida-17.13-anexo_de_enfermedad_grave_estado_de_coma.pdf",
+      "sha256": "99b8b7352ad2773bc6a7d6e1f0f3d2c6d590be9d0d725fe4ccc51e9d0931e947",
+      "bytes": 644023,
+      "kind": "anexo",
+      "source_url": "https://www.metlife.com.co/content/dam/metlifecom/co/PDFs/eb-vida/anexos-2023/mlvangeb192_0-col-ed03_2025-ramo_colectivo_de_vida-17.13-anexo_de_enfermedad_grave_estado_de_coma.pdf",
+      "title": "VIDA COLECTIVO | ENFERMEDAD GRAVE: ESTADO DE COMA"
+    },
+    {
+      "filename": "mlvangeb193_0-col-ed03_2025-ramo_colectivo_de_vida-17.14-anexo_de_enfermedad_grave_hemiplejia.pdf",
+      "sha256": "9a8e41be8391e61e5a85684a841549c0f2c79d026305156ad2a78fb057ae4338",
+      "bytes": 951369,
+      "kind": "anexo",
+      "source_url": "https://www.metlife.com.co/content/dam/metlifecom/co/PDFs/eb-vida/anexos-2023/mlvangeb193_0-col-ed03_2025-ramo_colectivo_de_vida-17.14-anexo_de_enfermedad_grave_hemiplejia.pdf",
+      "title": "VIDA COLECTIVO | ENFERMEDAD GRAVE: HEMIPLEJIA"
+    },
+    {
+      "filename": "mlvangeb194_0-col-ed03_2025_ramo_colectivo_de_vida-17.15-anexo_de_enfermedad_grave_infarto_de_miocardio.pdf",
+      "sha256": "e1a0531716be4d091f0809bba49c857a88047c915a570547b764945985f12f83",
+      "bytes": 1144817,
+      "kind": "anexo",
+      "source_url": "https://www.metlife.com.co/content/dam/metlifecom/co/PDFs/eb-vida/anexos-2023/mlvangeb194_0-col-ed03_2025_ramo_colectivo_de_vida-17.15-anexo_de_enfermedad_grave_infarto_de_miocardio.pdf",
+      "title": "VIDA COLECTIVO | ENFERMEDAD GRAVE: INFARTO DEL MIOCARDIO"
+    },
+    {
+      "filename": "mlvangeb195_0-col-ed03_2025-ramo_colectivo_de_vida-17.16-anexo_de_enfermedad_grave_insuficiencia_renal_cronica.pdf",
+      "sha256": "92dfa53e2e24c75bdfae4c5eeb82e50bf00ccf57336f031398c652f7246cbe9d",
+      "bytes": 816181,
+      "kind": "anexo",
+      "source_url": "https://www.metlife.com.co/content/dam/metlifecom/co/PDFs/eb-vida/anexos-2023/mlvangeb195_0-col-ed03_2025-ramo_colectivo_de_vida-17.16-anexo_de_enfermedad_grave_insuficiencia_renal_cronica.pdf",
+      "title": "VIDA COLECTIVO | ENFERMEDAD GRAVE: INSUFICIENCIA RENAL CRÓNICA"
+    },
+    {
+      "filename": "mlvangeb196_0-col-ed03_2025-ramo_colectivo_de_vida-17.17-anexo_de_enfermedad_grave_lupus_eritematoso_sistemico.pdf",
+      "sha256": "a4e23c3089c86bb0686d6403b15bb27ca291a8539fac5621dd79af93639fbcf7",
+      "bytes": 842265,
+      "kind": "anexo",
+      "source_url": "https://www.metlife.com.co/content/dam/metlifecom/co/PDFs/eb-vida/anexos-2023/mlvangeb196_0-col-ed03_2025-ramo_colectivo_de_vida-17.17-anexo_de_enfermedad_grave_lupus_eritematoso_sistemico.pdf",
+      "title": "VIDA COLECTIVO | ENFERMEDAD GRAVE: LUPUS ERITEMATOSO SISTÉMICO"
+    },
+    {
+      "filename": "mlvangeb197_0-col-ed03_2025_ramo_colectivo_de_vida-17.18-anexo_de_enfermedad_grave_paralisis.pdf",
+      "sha256": "8d7833f7df9aaf39b8d84dc9416ba91454e0c3413fa18ed8b64522e4cb249f11",
+      "bytes": 651831,
+      "kind": "anexo",
+      "source_url": "https://www.metlife.com.co/content/dam/metlifecom/co/PDFs/eb-vida/anexos-2023/mlvangeb197_0-col-ed03_2025_ramo_colectivo_de_vida-17.18-anexo_de_enfermedad_grave_paralisis.pdf",
+      "title": "VIDA COLECTIVO | ENFERMEDAD GRAVE: PARÁLISIS"
+    },
+    {
+      "filename": "mlvangeb198_0-col-ed03_2025-ramo_colectivo_de_vida-17.19-anexo_de_enfermedad_grave_paraplejia.pdf",
+      "sha256": "1f9e67ce700b999ba9031d5aa90d88af2a13b8855e393b2ff080aefd63d6bb5c",
+      "bytes": 691083,
+      "kind": "anexo",
+      "source_url": "https://www.metlife.com.co/content/dam/metlifecom/co/PDFs/eb-vida/anexos-2023/mlvangeb198_0-col-ed03_2025-ramo_colectivo_de_vida-17.19-anexo_de_enfermedad_grave_paraplejia.pdf",
+      "title": "VIDA COLECTIVO | ENFERMEDAD GRAVE: PARAPLEJIA"
+    },
+    {
+      "filename": "mlvangeb199_0-col-ed03_2025-ramo_colectivo_de_vida-17.20_anexo_de_enfermedad_grave_parkinson.pdf",
+      "sha256": "77a612eb6155344c5d299b89ec1ef0b5db42ddeca590909a874387c54f03373c",
+      "bytes": 1081805,
+      "kind": "anexo",
+      "source_url": "https://www.metlife.com.co/content/dam/metlifecom/co/PDFs/eb-vida/anexos-2023/mlvangeb199_0-col-ed03_2025-ramo_colectivo_de_vida-17.20_anexo_de_enfermedad_grave_parkinson.pdf",
+      "title": "VIDA COLECTIVO | ANEXO DE ENFERMEDAD GRAVE: PARKINSON"
+    },
+    {
+      "filename": "mlvangeb208_0-col-ed05_2027-eb-01-anexo-itp-vgeb.pdf",
+      "sha256": "9a0beb37d3a98603cf2ed8c1abfff1d39a4888c88df54ea391e9d56fe790e3db",
+      "bytes": 1107865,
+      "kind": "anexo",
+      "source_url": "https://www.metlife.com.co/content/dam/metlifecom/co/PDFs/eb-vida/anexos-2025/mlvangeb208_0-col-ed05_2027-eb-01-anexo-itp-vgeb.pdf",
+      "title": "Anexo ITP Vida Grupo EB"
+    },
+    {
+      "filename": "mlvangeb209_0-col-ed05_2027-eb-02-anexo-itp-Accidental-vgeb.pdf",
+      "sha256": "6a7f6c99e92dae2e4198c76697498fa71be016fd6f04543928c355c6def8366b",
+      "bytes": 1223101,
+      "kind": "anexo",
+      "source_url": "https://www.metlife.com.co/content/dam/metlifecom/co/PDFs/ap-eb/anexos/mlvangeb209_0-col-ed05_2027-eb-02-anexo-itp-Accidental-vgeb.pdf",
+      "title": "INCAPACIDAD TOTAL Y PERMANENTE POR ACCIDENTE"
+    },
+    {
+      "filename": "mlvangeb212_0-col-ed05_2027-eb-05-anexo-auxilio-de-maternidad.pdf",
+      "sha256": "8db11f6a29ceab6b7b23c97ca9922cebda6ad40e8b43c1e63efd97ba636e52c6",
+      "bytes": 382932,
+      "kind": "anexo",
+      "source_url": "https://www.metlife.com.co/content/dam/metlifecom/co/PDFs/eb-vida/anexos-2025/mlvangeb212_0-col-ed05_2027-eb-05-anexo-auxilio-de-maternidad.pdf",
+      "title": "AUXILIO POR MATERNIDAD"
+    },
+    {
+      "filename": "mlvangeb213_0-col-ed05_2027-eb-06-anexo-auxilio-de-paternidad.pdf",
+      "sha256": "8cc4b347b899daba8bc2a000ed777dce930b66762e6115298e16d63f7f86ad7f",
+      "bytes": 543291,
+      "kind": "anexo",
+      "source_url": "https://www.metlife.com.co/content/dam/metlifecom/co/PDFs/eb-vida/anexos-2025/mlvangeb213_0-col-ed05_2027-eb-06-anexo-auxilio-de-paternidad.pdf",
+      "title": "AUXILIO POR PATERNIDAD"
+    },
+    {
+      "filename": "mlvangeb214_0-col-ed05_2027-eb-07-anexo-auxilio-gastos-funerarios.pdf",
+      "sha256": "26c6948eaf563ec910fca3e80b9d6d930e23ed9d4e6af568fb65084218d4b7b4",
+      "bytes": 632032,
+      "kind": "anexo",
+      "source_url": "https://www.metlife.com.co/content/dam/metlifecom/co/PDFs/eb-vida/anexos-2025/mlvangeb214_0-col-ed05_2027-eb-07-anexo-auxilio-gastos-funerarios.pdf",
+      "title": "AUXILIO GASTOS FUNERARIOS"
+    },
+    {
+      "filename": "mlvangeb215_0-col-ed05_2027-eb-08-anexo-plan-canasta-auxilio-para-gastos-del-hogar.pdf",
+      "sha256": "99108a90116dd658930376a268336892cce7feba5da9f51e902d08ef19095aa8",
+      "bytes": 599392,
+      "kind": "anexo",
+      "source_url": "https://www.metlife.com.co/content/dam/metlifecom/co/PDFs/eb-vida/anexos-2025/mlvangeb215_0-col-ed05_2027-eb-08-anexo-plan-canasta-auxilio-para-gastos-del-hogar.pdf",
+      "title": "GASTO DEL HOGAR PLAN CANASTA POR MUERTE"
+    },
+    {
+      "filename": "mlvangeb217_0-col-ed05_2027-eb-10-anexo-auxilio-para-gastos-funerarios-por-muerte-accidental-o-enfermedad.pdf",
+      "sha256": "0ea3413d2971805b92186137c86e60f5be90d43421d33927a3f5dc9c8efb8d6a",
+      "bytes": 289242,
+      "kind": "anexo",
+      "source_url": "https://www.metlife.com.co/content/dam/metlifecom/co/PDFs/ap-eb/anexos/mlvangeb217_0-col-ed05_2027-eb-10-anexo-auxilio-para-gastos-funerarios-por-muerte-accidental-o-enfermedad.pdf",
+      "title": "AUXILIO PARA GASTOS FUNERARIOS POR MUERTE ACCIDENTAL O ENFERMEDAD"
+    },
+    {
+      "filename": "mlvangeb218_0-col-ed05_2027-eb-11-anexo-auxilio-de-repatriacion-de-restos-funebres.pdf",
+      "sha256": "5f983d91521e0c75b0ff7688a7f45971f385982e98cf6a6b04b02d14d54365cd",
+      "bytes": 375225,
+      "kind": "anexo",
+      "source_url": "https://www.metlife.com.co/content/dam/metlifecom/co/PDFs/eb-vida/anexos-2025/mlvangeb218_0-col-ed05_2027-eb-11-anexo-auxilio-de-repatriacion-de-restos-funebres.pdf",
+      "title": "AUXILIO DE REPATRIACIÓN DE RESTOS FÚNEBRES"
+    },
+    {
+      "filename": "mlvangeb219_0-col-ed05_2027-eb-12-anexo-auxilio-de-traslado-de-restos-funebres.pdf",
+      "sha256": "c073c2a6186c9a4178249e2be2eaa6af737c85ee33e5487625ef14e77a3c9cf5",
+      "bytes": 440470,
+      "kind": "anexo",
+      "source_url": "https://www.metlife.com.co/content/dam/metlifecom/co/PDFs/eb-vida/anexos-2025/mlvangeb219_0-col-ed05_2027-eb-12-anexo-auxilio-de-traslado-de-restos-funebres.pdf",
+      "title": "AUXILIO DE TRASLADO DE RESTOS FÚNEBRES"
+    },
+    {
+      "filename": "mlvangeb220_0-col-ed05_2027-eb-13-anexo-muerte-accidental-en-transporte-aereo.pdf",
+      "sha256": "fd2af2b4e4f168e516116a930f04fdf6273642af37fcbd3f7e88f2cb8ff6fbff",
+      "bytes": 1455555,
+      "kind": "anexo",
+      "source_url": "https://www.metlife.com.co/content/dam/metlifecom/co/PDFs/ap-eb/anexos/mlvangeb220_0-col-ed05_2027-eb-13-anexo-muerte-accidental-en-transporte-aereo.pdf",
+      "title": "COBERTURA POR MUERTE ACCIDENTAL EN TRANSPORTE AÉREO"
+    },
+    {
+      "filename": "mlvangeb221_0-col-ed05_2027-eb-14-anexo-muerte-accidental-en-vehiculo-particular.pdf",
+      "sha256": "4b365c56daacce04e7633441d41d03b4281ccd74b1a4e6178ca3f79c3ecd2d03",
+      "bytes": 934348,
+      "kind": "anexo",
+      "source_url": "https://www.metlife.com.co/content/dam/metlifecom/co/PDFs/ap-eb/anexos/mlvangeb221_0-col-ed05_2027-eb-14-anexo-muerte-accidental-en-vehiculo-particular.pdf",
+      "title": "COBERTURA POR MUERTE ACCIDENTAL EN VEHÍCULO PARTICULAR"
+    },
+    {
+      "filename": "mlvangeb222_0-col-ed05_2027-eb-15-anexo-muerte-accidental-en-transporte-publico.pdf",
+      "sha256": "a209ff7c26d920ef1e7df5adc07b11479d1ed3701f43ab2aaf5306148894069c",
+      "bytes": 1497186,
+      "kind": "anexo",
+      "source_url": "https://www.metlife.com.co/content/dam/metlifecom/co/PDFs/ap-eb/anexos/mlvangeb222_0-col-ed05_2027-eb-15-anexo-muerte-accidental-en-transporte-publico.pdf",
+      "title": "COBERTURA POR MUERTE ACCIDENTAL EN TRANSPORTE PÚBLICO"
+    },
+    {
+      "filename": "mlvangeb223_0-col-ed05_2027-eb-16-anexo-muerte-por-desaparicion-accidental.pdf",
+      "sha256": "246535c1f23082c9e77af7edadc81ead3dfb03f50bd0d6096b09be161149b5ee",
+      "bytes": 1619685,
+      "kind": "anexo",
+      "source_url": "https://www.metlife.com.co/content/dam/metlifecom/co/PDFs/ap-eb/anexos/mlvangeb223_0-col-ed05_2027-eb-16-anexo-muerte-por-desaparicion-accidental.pdf",
+      "title": "COBERTURA POR MUERTE POR DESAPARECIMIENTO EN ACCIDENTE"
+    },
+    {
+      "filename": "mlvangeb224_0-col-ed05_2027-eb-17-anexo-desmembracion-por-accidente.pdf",
+      "sha256": "bc83ac41fac7d145e115a35780afc938b0814297f5a3ed774c448cb3d199bd65",
+      "bytes": 1161961,
+      "kind": "anexo",
+      "source_url": "https://www.metlife.com.co/content/dam/metlifecom/co/PDFs/ap-eb/anexos/mlvangeb224_0-col-ed05_2027-eb-17-anexo-desmembracion-por-accidente.pdf",
+      "title": "DESMEMBRACIÓN POR ACCIDENTE"
+    },
+    {
+      "filename": "mlvangeb225_0-col-ed05_2027-eb-18-anexo-homicidio-e-intento-de-homicidio.pdf",
+      "sha256": "df61db63a2680365ec274d13cd08973b0193fd54d931cbc00d500b37c8081b79",
+      "bytes": 815759,
+      "kind": "anexo",
+      "source_url": "https://www.metlife.com.co/content/dam/metlifecom/co/PDFs/ap-eb/anexos/mlvangeb225_0-col-ed05_2027-eb-18-anexo-homicidio-e-intento-de-homicidio.pdf",
+      "title": "HOMICIDIO O INTENTO DE HOMICIDIO"
+    },
+    {
+      "filename": "mlvangeb226_0-col-ed05_2027-eb-19-anexo-de-terrorismo-y-actos-terroristas.pdf",
+      "sha256": "5502fd3cc1a93c383ed0192bcb5f082e46e6325160dff527daedb2f7c53125ea",
+      "bytes": 1294546,
+      "kind": "anexo",
+      "source_url": "https://www.metlife.com.co/content/dam/metlifecom/co/PDFs/ap-eb/anexos/mlvangeb226_0-col-ed05_2027-eb-19-anexo-de-terrorismo-y-actos-terroristas.pdf",
+      "title": "TERRORISMO O ACTOS TERRORISTAS"
+    },
+    {
+      "filename": "mlvangeb227_0-col-ed05_2027-eb-20-anexo-de-reembolso-de-gastos-medicos-por-accidente.pdf",
+      "sha256": "feb0ac4b25946c030a4af514c92ab48736a385563fd584a6d1f228b4d8a0d43f",
+      "bytes": 846656,
+      "kind": "anexo",
+      "source_url": "https://www.metlife.com.co/content/dam/metlifecom/co/PDFs/eb-vida/anexos-2025/mlvangeb227_0-col-ed05_2027-eb-20-anexo-de-reembolso-de-gastos-medicos-por-accidente.pdf",
+      "title": "GASTOS MÉDICOS POR ACCIDENTE"
+    },
+    {
+      "filename": "mlvangeb228_0-col-ed05_2027-eb-21-anexo-de-fracturas-de-las-extremidades-superiores-inferiores.pdf",
+      "sha256": "a5cfd1d7324cc41db5300f076998df6e3fe351e4ec222ade6caa29c3902c4999",
+      "bytes": 491940,
+      "kind": "anexo",
+      "source_url": "https://www.metlife.com.co/content/dam/metlifecom/co/PDFs/eb-vida/anexos-2025/mlvangeb228_0-col-ed05_2027-eb-21-anexo-de-fracturas-de-las-extremidades-superiores-inferiores.pdf",
+      "title": "FRACTURAS DE LAS EXTREMIDADES SUPERIORES Y/O INFERIORES"
+    },
+    {
+      "filename": "mlvangeb229_0-col-ed05_2027-eb-22-anexo-de-renta-diaria-por-hospitalizacion-a-causa-de-accidente-enfermedad.pdf",
+      "sha256": "d38d260ea17fa996b81dd92359203305fc8773da217d470401aa0606d158b778",
+      "bytes": 323466,
+      "kind": "anexo",
+      "source_url": "https://www.metlife.com.co/content/dam/metlifecom/co/PDFs/ap-eb/anexos/mlvangeb229_0-col-ed05_2027-eb-22-anexo-de-renta-diaria-por-hospitalizacion-a-causa-de-accidente-enfermedad.pdf",
+      "title": "RENTA DIARIA POR HOSPITALIZACIÓN A CAUSA DE ACCIDENTE Y/O ENFERMEDAD"
+    },
+    {
+      "filename": "mlvangeb230_0-col-ed05_2027-eb-23-anexo-de-renta-diaria-por-hospitalizacion-por-causa-de-accidente.pdf",
+      "sha256": "dd3bef8295ad16977c45de8a7b0fc2dfc7e50a6b998a2b4d84f69f573aa15fa0",
+      "bytes": 521639,
+      "kind": "anexo",
+      "source_url": "https://www.metlife.com.co/content/dam/metlifecom/co/PDFs/ap-eb/anexos/mlvangeb230_0-col-ed05_2027-eb-23-anexo-de-renta-diaria-por-hospitalizacion-por-causa-de-accidente.pdf",
+      "title": "RENTA DIARIA POR HOSPITALIZACIÓN POR CAUSA DE ACCIDENTE"
+    },
+    {
+      "filename": "mlvangeb231_0-col-ed05_2027-eb-24-anexo-de-renta-diaria-por-hospitalizacion-en-unidad-de-cuidados-intensivos-uci-por-accidente.pdf",
+      "sha256": "4ecdfae0e34f30580cb38e6b99a21801ec050ec3f913cfe43f629acadf29e7e7",
+      "bytes": 788079,
+      "kind": "anexo",
+      "source_url": "https://www.metlife.com.co/content/dam/metlifecom/co/PDFs/eb-vida/anexos-2025/mlvangeb231_0-col-ed05_2027-eb-24-anexo-de-renta-diaria-por-hospitalizacion-en-unidad-de-cuidados-intensivos-uci-por-accidente.pdf",
+      "title": "RENTA DIARIA POR HOSPITALIZACIÓN EN UNIDAD DE CUIDADOS INTENSIVOS (UCI) POR ACCIDENTE"
+    },
+    {
+      "filename": "mlvangeb232_0-col-ed05_2027-eb-25-anexo-de-renta-diaria-por-hospitalizacion-en-unidad-de-cuidados-intensivos-uci-por-accidente-enfermedad.pdf",
+      "sha256": "60f92365453025504b6db9a17422ac28e44d00ef41e5207f6aed6633fcac29e4",
+      "bytes": 771779,
+      "kind": "anexo",
+      "source_url": "https://www.metlife.com.co/content/dam/metlifecom/co/PDFs/eb-vida/anexos-2025/mlvangeb232_0-col-ed05_2027-eb-25-anexo-de-renta-diaria-por-hospitalizacion-en-unidad-de-cuidados-intensivos-uci-por-accidente-enfermedad.pdf",
+      "title": "RENTA DIARIA POR HOSPITALIZACIÓN EN UNIDAD DE CUIDADOS INTENSIVOS (UCI) POR ACCIDENTE Y/O ENFERMEDAD"
+    },
+    {
+      "filename": "mlvangeb233_0-col-ed05_2027-eb-26-anexo-de-quemaduras-de-segundo-tercer-grado.pdf",
+      "sha256": "1f108431e49835cc8eb2c37817b8a183d5ba4629e5eb1d49bb7cdca72111a70b",
+      "bytes": 1256533,
+      "kind": "anexo",
+      "source_url": "https://www.metlife.com.co/content/dam/metlifecom/co/PDFs/eb-vida/anexos-2025/mlvangeb233_0-col-ed05_2027-eb-26-anexo-de-quemaduras-de-segundo-tercer-grado.pdf",
+      "title": "QUEMADURASDE SEGUNDO Y/O TERCER GRADO"
+    },
+    {
+      "filename": "mlvangeb234_0-col-ed05_2027-eb-271-paquete-por-7-enfermedades.pdf",
+      "sha256": "b86f7d5240b121d67eaa128f19b8b93750c6c58dcf8f0f6ab9f37fa0c8bffa6c",
+      "bytes": 1284696,
+      "kind": "anexo",
+      "source_url": "https://www.metlife.com.co/content/dam/metlifecom/co/PDFs/eb-vida/anexos-2025/mlvangeb234_0-col-ed05_2027-eb-271-paquete-por-7-enfermedades.pdf",
+      "title": "ENFERMEDADES GRAVES 7 ENFERMEDADES"
+    },
+    {
+      "filename": "mlvangeb235_0-col-ed05_2027-eb-272-accidente-cerebro-vascular.pdf",
+      "sha256": "c390d4149354ba9a279f40aafec8e28da0302a21d46266937742cce41ed07fb7",
+      "bytes": 746728,
+      "kind": "anexo",
+      "source_url": "https://www.metlife.com.co/content/dam/metlifecom/co/PDFs/eb-vida/anexos-2025/mlvangeb235_0-col-ed05_2027-eb-272-accidente-cerebro-vascular.pdf",
+      "title": "ENFERMEDAD GRAVE ACCIDENTE CEREBRO VASCULAR"
+    },
+    {
+      "filename": "mlvangeb236_0-col-ed05_2027-eb-273-alzheimer.pdf",
+      "sha256": "b35235773686eb3a34aa3e1e7374b97644b067b21ad6e7700a0dc11c12b73133",
+      "bytes": 630078,
+      "kind": "anexo",
+      "source_url": "https://www.metlife.com.co/content/dam/metlifecom/co/PDFs/eb-vida/anexos-2025/mlvangeb236_0-col-ed05_2027-eb-273-alzheimer.pdf",
+      "title": "ENFERMEDAD GRAVE ALZHEIMER"
+    },
+    {
+      "filename": "mlvangeb237_0-col-ed05_2027-eb-274-anemia-aplasica.pdf",
+      "sha256": "5c8341bbf6d18fafc2e6b165c1d7cd33ea6708faa820d3e09344573c1da3ee05",
+      "bytes": 694997,
+      "kind": "anexo",
+      "source_url": "https://www.metlife.com.co/content/dam/metlifecom/co/PDFs/eb-vida/anexos-2025/mlvangeb237_0-col-ed05_2027-eb-274-anemia-aplasica.pdf",
+      "title": "ENFERMEDAD GRAVE ANEMIA APLÁSICA"
+    },
+    {
+      "filename": "mlvangeb238_0-col-ed05_2027-eb-275-angioplastia-coronaria-de-dos-o-mas-arterias.pdf",
+      "sha256": "4e043f29f66dd0d3cb522130eb0f3d5081832bf952aeabe0efabc1d80f332dcc",
+      "bytes": 695190,
+      "kind": "anexo",
+      "source_url": "https://www.metlife.com.co/content/dam/metlifecom/co/PDFs/eb-vida/anexos-2025/mlvangeb238_0-col-ed05_2027-eb-275-angioplastia-coronaria-de-dos-o-mas-arterias.pdf",
+      "title": "ENFERMEDAD GRAVE ANGIOPLASTIA CORONARIA DE DOS O MAS ARTERIAS"
+    },
+    {
+      "filename": "mlvangeb239_0-col-ed05_2027-eb-276-cancer.pdf",
+      "sha256": "1c446805fd2b3c48fb714064669f933d8fb2445f471c977f53f0dd5e96196599",
+      "bytes": 819954,
+      "kind": "anexo",
+      "source_url": "https://www.metlife.com.co/content/dam/metlifecom/co/PDFs/eb-vida/anexos-2025/mlvangeb239_0-col-ed05_2027-eb-276-cancer.pdf",
+      "title": "ENFERMEDAD GRAVE CÁNCER"
+    },
+    {
+      "filename": "mlvangeb240_0-col-ed05_2027-eb-277-ceguera.pdf",
+      "sha256": "2e35976877ec1691fd43fe8b511a94233faab6eec4cbeaf67e16f82c94062fc4",
+      "bytes": 633057,
+      "kind": "anexo",
+      "source_url": "https://www.metlife.com.co/content/dam/metlifecom/co/PDFs/eb-vida/anexos-2025/mlvangeb240_0-col-ed05_2027-eb-277-ceguera.pdf",
+      "title": "ENFERMEDAD GRAVE CEGUERA"
+    },
+    {
+      "filename": "mlvangeb241_0-col-ed05_2027-eb-278-cirugia-de-injerto-en-la-aorta.pdf",
+      "sha256": "40b64d8dbec13ccf93652011d521a5c38e9274d056dadef145a7ee0f405972c7",
+      "bytes": 1059923,
+      "kind": "anexo",
+      "source_url": "https://www.metlife.com.co/content/dam/metlifecom/co/PDFs/eb-vida/anexos-2025/mlvangeb241_0-col-ed05_2027-eb-278-cirugia-de-injerto-en-la-aorta.pdf",
+      "title": "ENFERMEDAD GRAVE CIRUGÍA DE INJERTO EN LA AORTA"
+    },
+    {
+      "filename": "mlvangeb242_0-col-ed05_2027-eb-279-enfermedades-de-la-neurona-motora.pdf",
+      "sha256": "6b6b0b608b6f0b9bc9359d15ed01383f95b2634eb0d50020d5608577053c373f",
+      "bytes": 882415,
+      "kind": "anexo",
+      "source_url": "https://www.metlife.com.co/content/dam/metlifecom/co/PDFs/eb-vida/anexos-2025/mlvangeb242_0-col-ed05_2027-eb-279-enfermedades-de-la-neurona-motora.pdf",
+      "title": "ENFERMEDAD GRAVE ENFERMEDADES DE LA NEURONA MOTORA"
+    },
+    {
+      "filename": "mlvangeb243_0-col-ed05_2027-eb-2710-enfermedades-de-las-arterias-coronarias-tratadas-con-bypass.pdf",
+      "sha256": "3894bf8c74a9132dc1ba9972fc9398457225d5a31a934adaa4e8637ddc8d589c",
+      "bytes": 974554,
+      "kind": "anexo",
+      "source_url": "https://www.metlife.com.co/content/dam/metlifecom/co/PDFs/eb-vida/anexos-2025/mlvangeb243_0-col-ed05_2027-eb-2710-enfermedades-de-las-arterias-coronarias-tratadas-con-bypass.pdf",
+      "title": "ENFERMEDAD GRAVE ENFERMEDADES DE LAS ARTERIAS CORONARIAS TRATADAS CON BY PASS"
+    },
+    {
+      "filename": "mlvangeb244_0-col-ed05_2027-eb-2711-esclerosis-lateral-amiotrofica.pdf",
+      "sha256": "d658581f40c9cd75882585eac34bc8844e9ba87e0761282a1a850393d01a2aeb",
+      "bytes": 616242,
+      "kind": "anexo",
+      "source_url": "https://www.metlife.com.co/content/dam/metlifecom/co/PDFs/eb-vida/anexos-2025/mlvangeb244_0-col-ed05_2027-eb-2711-esclerosis-lateral-amiotrofica.pdf",
+      "title": "ENFERMEDAD GRAVE - ESCLEROSIS LATERAL AMIOTRÓFICA"
+    },
+    {
+      "filename": "mlvangeb245_0-col-ed05_2027-eb-2712-esclerosis-multiple.pdf",
+      "sha256": "8523c1ed8165c3dd39575840bc57c44cbd8a122bbba281fd6b4fb91f9007dd83",
+      "bytes": 845775,
+      "kind": "anexo",
+      "source_url": "https://www.metlife.com.co/content/dam/metlifecom/co/PDFs/eb-vida/anexos-2025/mlvangeb245_0-col-ed05_2027-eb-2712-esclerosis-multiple.pdf",
+      "title": "ENFERMEDAD GRAVE - ESCLEROSIS MÚLTIPLE"
+    },
+    {
+      "filename": "mlvangeb246_0-col-ed05_2027-eb-2713-estado-de-coma.pdf",
+      "sha256": "3f62f66a290f6008d2a40167fbce4e8f3ae01960052f7e6c1c175918bd7ff3a9",
+      "bytes": 605631,
+      "kind": "anexo",
+      "source_url": "https://www.metlife.com.co/content/dam/metlifecom/co/PDFs/eb-vida/anexos-2025/mlvangeb246_0-col-ed05_2027-eb-2713-estado-de-coma.pdf",
+      "title": "ENFERMEDAD GRAVE - ESTADO DE COMA"
+    },
+    {
+      "filename": "mlvangeb247_0-col-ed05_2027-eb-2714-hemiplejia.pdf",
+      "sha256": "1096adb38362896a47222fcdb77b3a5fe9cf60a587359fc552338e4ecd43a783",
+      "bytes": 744002,
+      "kind": "anexo",
+      "source_url": "https://www.metlife.com.co/content/dam/metlifecom/co/PDFs/eb-vida/anexos-2025/mlvangeb247_0-col-ed05_2027-eb-2714-hemiplejia.pdf",
+      "title": "ENFERMEDAD GRAVE HEMIPLEJÍA"
+    },
+    {
+      "filename": "mlvangeb248_0-col-ed05_2027-eb-2715-infarto-del-miocardio.pdf",
+      "sha256": "759e4699d20d9a1b22f67953df95f1fba306ba72d47749b076d27e21dbe50743",
+      "bytes": 757401,
+      "kind": "anexo",
+      "source_url": "https://www.metlife.com.co/content/dam/metlifecom/co/PDFs/eb-vida/anexos-2025/mlvangeb248_0-col-ed05_2027-eb-2715-infarto-del-miocardio.pdf",
+      "title": "ENFERMEDAD GRAVE INFARTO DEL MIOCARDIO"
+    },
+    {
+      "filename": "mlvangeb249_0-col-ed05_2027-eb-2716-insuficiencia-renal-cronica.pdf",
+      "sha256": "b59c71388a103e2a2800743029c4e7cfd637fe47211a6fc49f29b004bc6c3054",
+      "bytes": 546917,
+      "kind": "anexo",
+      "source_url": "https://www.metlife.com.co/content/dam/metlifecom/co/PDFs/eb-vida/anexos-2025/mlvangeb249_0-col-ed05_2027-eb-2716-insuficiencia-renal-cronica.pdf",
+      "title": "ENFERMEDAD GRAVE INSUFICIENCIA RENAL CRÓNICA"
+    },
+    {
+      "filename": "mlvangeb250_0-col-ed05_2027-eb-2717-lupus-eritematoso-sistemico.pdf",
+      "sha256": "2cd523cb5b5b6b3fd3fd6aa18f1766502cf3587061f9470fa9ab218c7f842459",
+      "bytes": 946972,
+      "kind": "anexo",
+      "source_url": "https://www.metlife.com.co/content/dam/metlifecom/co/PDFs/eb-vida/anexos-2025/mlvangeb250_0-col-ed05_2027-eb-2717-lupus-eritematoso-sistemico.pdf",
+      "title": "ENFERMEDAD GRAVE LUPUS ERITEMATOSO SISTÉMICO"
+    },
+    {
+      "filename": "mlvangeb251_0-col-ed05_2027-eb-2718-paralisis.pdf",
+      "sha256": "cfddf5be3cc53b57717e4f1f420674379b7f13d4cbd9024e90157609b68c8662",
+      "bytes": 810048,
+      "kind": "anexo",
+      "source_url": "https://www.metlife.com.co/content/dam/metlifecom/co/PDFs/eb-vida/anexos-2025/mlvangeb251_0-col-ed05_2027-eb-2718-paralisis.pdf",
+      "title": "ENFERMEDAD GRAVE PARÁLISIS"
+    },
+    {
+      "filename": "mlvangeb252_0-col-ed05_2027-eb-2719-paraplejia.pdf",
+      "sha256": "fe5e8ff5ac425c9ef04e6f702621294e5c5f305f77241494026e40bc1fb44941",
+      "bytes": 800545,
+      "kind": "anexo",
+      "source_url": "https://www.metlife.com.co/content/dam/metlifecom/co/PDFs/eb-vida/anexos-2025/mlvangeb252_0-col-ed05_2027-eb-2719-paraplejia.pdf",
+      "title": "ENFERMEDAD GRAVE PARAPLEJIA"
+    },
+    {
+      "filename": "mlvangeb253_0-col-ed05_2027-eb-2720-parkinson.pdf",
+      "sha256": "a8c10db7bfa165757845a162e447af9ded433c419a95f0d29831bf7c26b018e8",
+      "bytes": 898417,
+      "kind": "anexo",
+      "source_url": "https://www.metlife.com.co/content/dam/metlifecom/co/PDFs/eb-vida/anexos-2025/mlvangeb253_0-col-ed05_2027-eb-2720-parkinson.pdf",
+      "title": "ENFERMEDAD GRAVE PARKINSON"
+    },
+    {
+      "filename": "mlvangeb254_0-col-ed05_2027-eb-2721-perdida-de-extremidades.pdf",
+      "sha256": "10b77b652479744bcd72a7a93b07c6b61285f3645a44631d15fea59a33a54eab",
+      "bytes": 605296,
+      "kind": "anexo",
+      "source_url": "https://www.metlife.com.co/content/dam/metlifecom/co/PDFs/eb-vida/anexos-2025/mlvangeb254_0-col-ed05_2027-eb-2721-perdida-de-extremidades.pdf",
+      "title": "ENFERMEDAD GRAVE PÉRDIDA DE EXTREMIDADES"
+    },
+    {
+      "filename": "mlvangeb255_0-col-ed05_2027-eb-2722-perdida-del-habla.pdf",
+      "sha256": "57f9daf4645c1d2e1cbfb4105afd14e17402282eb16cac5e6260b972fd292dda",
+      "bytes": 744085,
+      "kind": "anexo",
+      "source_url": "https://www.metlife.com.co/content/dam/metlifecom/co/PDFs/eb-vida/anexos-2025/mlvangeb255_0-col-ed05_2027-eb-2722-perdida-del-habla.pdf",
+      "title": "ENFERMEDAD GRAVE PÉRDIDA DEL HABLA"
+    },
+    {
+      "filename": "mlvangeb256_0-col-ed05_2027-eb-2723-quemaduras-de-tercer-grado.pdf",
+      "sha256": "ecd5e617ef20320b6318b3d6b130b98f8b9b00d467f725c69dbc009af0dd22e7",
+      "bytes": 756837,
+      "kind": "anexo",
+      "source_url": "https://www.metlife.com.co/content/dam/metlifecom/co/PDFs/eb-vida/anexos-2025/mlvangeb256_0-col-ed05_2027-eb-2723-quemaduras-de-tercer-grado.pdf",
+      "title": "ENFERMEDAD GRAVE QUEMADURAS DE TERCER GRADO"
+    },
+    {
+      "filename": "mlvangeb257_0-col-ed05_2027-eb-2724-reemplazo-o-reparacion-de-valvula-en-el-corazon.pdf",
+      "sha256": "954aea0dc5411a29652559b05a905374c9b8fc329e217edf78c268d7c5eb57e4",
+      "bytes": 546497,
+      "kind": "anexo",
+      "source_url": "https://www.metlife.com.co/content/dam/metlifecom/co/PDFs/eb-vida/anexos-2025/mlvangeb257_0-col-ed05_2027-eb-2724-reemplazo-o-reparacion-de-valvula-en-el-corazon.pdf",
+      "title": "ENFERMEDAD GRAVE REEMPLAZO O REPARACIÓN DE VÁLVULA EN EL CORAZÓN"
+    },
+    {
+      "filename": "mlvangeb258_0-col-ed05_2027-eb-2725-sordera.pdf",
+      "sha256": "e6fde06bf4b587a70dbb34d64e535b63a9287929682a9a61d3ac6c90e81a9753",
+      "bytes": 946057,
+      "kind": "anexo",
+      "source_url": "https://www.metlife.com.co/content/dam/metlifecom/co/PDFs/eb-vida/anexos-2025/mlvangeb258_0-col-ed05_2027-eb-2725-sordera.pdf",
+      "title": "ENFERMEDAD GRAVE SORDERA"
+    },
+    {
+      "filename": "mlvangeb259_0-col-ed05_2027-eb-2726-trasplante-de-organos.pdf",
+      "sha256": "847fe913e394e312b9ece56194c13905de88ec8c79df218dbfc9e98a5635a528",
+      "bytes": 809842,
+      "kind": "anexo",
+      "source_url": "https://www.metlife.com.co/content/dam/metlifecom/co/PDFs/eb-vida/anexos-2025/mlvangeb259_0-col-ed05_2027-eb-2726-trasplante-de-organos.pdf",
+      "title": "ENFERMEDAD GRAVE TRASPLANTE DE ÓRGANOS"
+    },
+    {
+      "filename": "mlvangeb260_0-col-ed05_2027-eb-2727-traumatissmo-mayr-de-cabeza.pdf",
+      "sha256": "92a176b488a11c17769d06025bb839323d1155f6cea045c2f1d524a1d6deb3cd",
+      "bytes": 800896,
+      "kind": "anexo",
+      "source_url": "https://www.metlife.com.co/content/dam/metlifecom/co/PDFs/eb-vida/anexos-2025/mlvangeb260_0-col-ed05_2027-eb-2727-traumatissmo-mayr-de-cabeza.pdf",
+      "title": "ENFERMEDAD GRAVE TRAUMATISMO MAYOR DE CABEZA"
+    },
+    {
+      "filename": "mlvangeb261_0-col-ed05_2027-eb-2728-tumor-benigno-en-el-cerebro.pdf",
+      "sha256": "a45ef70a5f3d1cf5dbf9f151dfc3533f29e2efa621db7f721ce9aa9ac123cb65",
+      "bytes": 898188,
+      "kind": "anexo",
+      "source_url": "https://www.metlife.com.co/content/dam/metlifecom/co/PDFs/eb-vida/anexos-2025/mlvangeb261_0-col-ed05_2027-eb-2728-tumor-benigno-en-el-cerebro.pdf",
+      "title": "ENFERMEDAD GRAVE TUMOR BENIGNO EN EL CEREBRO"
+    },
+    {
+      "filename": "mlvangeb262_0-col-ed05_2027-eb-2729-anexo-enfermedades-graves-distrofia-muscular.pdf",
+      "sha256": "21c3ffd7ce75a4a07423ea3d7659a9b1b0aea638a90747ea4b68a743c63dd364",
+      "bytes": 605582,
+      "kind": "anexo",
+      "source_url": "https://www.metlife.com.co/content/dam/metlifecom/co/PDFs/eb-vida/anexos-2025/mlvangeb262_0-col-ed05_2027-eb-2729-anexo-enfermedades-graves-distrofia-muscular.pdf",
+      "title": "ENFERMEDAD GRAVE DISTROFIA MUSCULAR"
+    },
+    {
+      "filename": "mlvangeb263_0-col-ed05_2027-eb-2730-anexo-enfermedades-graves-enfermedades-huerfanas.pdf",
+      "sha256": "c45a0642f8c7502781a63e2c2056803551d0def668071aeb1b4a64f1975f34de",
+      "bytes": 605580,
+      "kind": "anexo",
+      "source_url": "https://www.metlife.com.co/content/dam/metlifecom/co/PDFs/eb-vida/anexos-2025/mlvangeb263_0-col-ed05_2027-eb-2730-anexo-enfermedades-graves-enfermedades-huerfanas.pdf",
+      "title": "ENFERMEDAD GRAVE ENFERMEDADES HUÉRFANAS"
+    },
+    {
+      "filename": "mlvangeb264_0-col-ed05_2027-eb-2731-anexo-enfermedades-graves-politraumatismo.pdf",
+      "sha256": "dc0de8b12866a2230dc7a099cd0585203f0e675689043d6e3ef98aad5dcf83fb",
+      "bytes": 744365,
+      "kind": "anexo",
+      "source_url": "https://www.metlife.com.co/content/dam/metlifecom/co/PDFs/eb-vida/anexos-2025/mlvangeb264_0-col-ed05_2027-eb-2731-anexo-enfermedades-graves-politraumatismo.pdf",
+      "title": "ENFERMEDAD GRAVE POLITRAUMATISMO"
+    },
+    {
+      "filename": "mlvangeb265_0-col-ed05_2027-eb-2732-anexo-enfermedades-graves-sindrome-de-guillain-barre.pdf",
+      "sha256": "c01dd5a1d792b7168b5c4483091a3b77590e07a37d7cddcc344715a5ae951f69",
+      "bytes": 757122,
+      "kind": "anexo",
+      "source_url": "https://www.metlife.com.co/content/dam/metlifecom/co/PDFs/eb-vida/anexos-2025/mlvangeb265_0-col-ed05_2027-eb-2732-anexo-enfermedades-graves-sindrome-de-guillain-barre.pdf",
+      "title": "ENFERMEDAD GRAVE SÍNDROME DE GUILLAIN BARRÉ"
+    },
+    {
+      "filename": "mlvangeb266_0-col-ed05_2027-eb-2734-anexo-enfermedades-graves-trasplante-de-cornea.pdf",
+      "sha256": "da2983f0afdc3a9aeaee233bb7eaac9cc5c737fefc06fa5640c6619738a1bf51",
+      "bytes": 809418,
+      "kind": "anexo",
+      "source_url": "https://www.metlife.com.co/content/dam/metlifecom/co/PDFs/eb-vida/anexos-2025/mlvangeb266_0-col-ed05_2027-eb-2734-anexo-enfermedades-graves-trasplante-de-cornea.pdf",
+      "title": "ENFERMEDAD GRAVE TRASPLANTE DE CÓRNEA"
+    },
+    {
+      "filename": "mlvangeb267_0-col-ed05_2027-eb-2735-anexo-de-cirugia-ambulatoria.pdf",
+      "sha256": "717df04079bfed9a878b3da22ab6d26d48ffa1b7635a1684ee51fa1f69bb2ce3",
+      "bytes": 839134,
+      "kind": "anexo",
+      "source_url": "https://www.metlife.com.co/content/dam/metlifecom/co/PDFs/eb-vida/anexos-2025/mlvangeb267_0-col-ed05_2027-eb-2735-anexo-de-cirugia-ambulatoria.pdf",
+      "title": "CIRUGÍA AMBULATORIA"
+    },
+    {
+      "filename": "mlvangeb269_0-col-ed05_2027-eb-29-muerte-accidental.pdf",
+      "sha256": "4c053c4273faf78089eeb89114ace7d6f7d1cce07acf054d67318cb3ec0def94",
+      "bytes": 1879286,
+      "kind": "anexo",
+      "source_url": "https://www.metlife.com.co/content/dam/metlifecom/co/PDFs/ap-eb/anexos/mlvangeb269_0-col-ed05_2027-eb-29-muerte-accidental.pdf",
+      "title": "MUERTE POR ACCIDENTE"
+    },
+    {
+      "filename": "mlvangeb277_0-col-ed9_2027-anexos-eb-288-auxilio-exequial-vf.pdf",
+      "sha256": "dcdc03b757e04c4d0c8a6298cfbedca9f39410ca2628a4d9ee980c2ff123b4ec",
+      "bytes": 1435080,
+      "kind": "anexo",
+      "source_url": "https://www.metlife.com.co/content/dam/metlifecom/co/PDFs/eb-vida/anexos-2025/mlvangeb277_0-col-ed9_2027-anexos-eb-288-auxilio-exequial-vf.pdf",
+      "title": "AUXILIO PARA GASTOS FUNERARIOS POR MUERTE ACCIDENTAL O ENFERMEDAD"
+    },
+    {
+      "filename": "mlvangeb278_0-col-ed9_2027-anexos-eb-289-anexo-enfermedades-graves-sindrome-de-inmunodeficiencia-adquirida-vf.pdf",
+      "sha256": "a4530e5f09792bca3d78df1b93944bbf0fb4c357ca51a10f2afc66b60080fda4",
+      "bytes": 947717,
+      "kind": "anexo",
+      "source_url": "https://www.metlife.com.co/content/dam/metlifecom/co/PDFs/eb-vida/anexos-2025/mlvangeb278_0-col-ed9_2027-anexos-eb-289-anexo-enfermedades-graves-sindrome-de-inmunodeficiencia-adquirida-vf.pdf",
+      "title": "ENFERMEDAD GRAVE: SÍNDROME DE INMUNODEFICIENCIA ADQUIRIDA"
+    },
+    {
+      "filename": "mlvclca1700-col-ed82028-clausulado-serfinanza-vida-deudor-tco.pdf",
+      "sha256": "2c7513a6c3d1badafd1ba1fd084f6fea8d1a85c46ac2732b3d4bd5f7a0b9140e",
+      "bytes": 122146,
+      "kind": "condiciones",
+      "source_url": "https://www.metlife.com.co/content/dam/metlifecom/co/PDFs/condiciones-generales/Masivos/vida-deudor/mlvclca1700-col-ed82028-clausulado-serfinanza-vida-deudor-tco.pdf",
+      "title": "Clausulado Vida Deudor - Tarjeta de Crédito, Crédito Rotativo (CR) y crédito a Largo Plazo (ALP) (Desde agosto 2026)"
+    },
+    {
+      "filename": "mlvclca1710-col-ed82028-clausulado-serfinanza-vida-deudor-credito-sin-garantia.pdf",
+      "sha256": "512371f36f734b7a239271e6acfc55d1864aa7074f2d0baed8d876d570e7fbb4",
+      "bytes": 168878,
+      "kind": "condiciones",
+      "source_url": "https://www.metlife.com.co/content/dam/metlifecom/co/PDFs/condiciones-generales/Masivos/vida-deudor/mlvclca1710-col-ed82028-clausulado-serfinanza-vida-deudor-credito-sin-garantia.pdf",
+      "title": "Clausulado Vida Deudor - Crédito sin Garantía Hipotecaria y libranza (Desde agosto 2026)"
+    },
+    {
+      "filename": "mlvclgeb095-0-col-ed04-2024-0-vida-grupo-eb-13-x-20.pdf",
+      "sha256": "bb6d747056d979842688b5935f56444927f48fabb4b013cab629c2bc15745b6e",
+      "bytes": 154894,
+      "kind": "condiciones",
+      "source_url": "https://www.metlife.com.co/content/dam/metlifecom/co/PDFs/eb-vida/condicionados-2022/mlvclgeb095-0-col-ed04-2024-0-vida-grupo-eb-13-x-20.pdf",
+      "title": "Vida Grupo EB ED04 2024 (legacy)"
+    }
+  ]
+}
