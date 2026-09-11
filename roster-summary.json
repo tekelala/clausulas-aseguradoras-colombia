@@ -1,0 +1,320 @@
+{
+  "scraped_at": "2026-09-11",
+  "companies_with_pdfs": 38,
+  "total_pdfs": 1511,
+  "total_bytes": 959822752,
+  "companies": [
+    {
+      "name": "Allianz Colombia",
+      "slug": "allianz-colombia",
+      "status": "ok",
+      "pdfs": 5,
+      "bytes": 2286021,
+      "confidence": "high"
+    },
+    {
+      "name": "Andina Compañía de Seguros de Vida S.A.",
+      "slug": "andina-compania-de-seguros-de-vida-s-a",
+      "status": "ok",
+      "pdfs": 2,
+      "bytes": 649220,
+      "confidence": "medium"
+    },
+    {
+      "name": "Aseguradora Solidaria de Colombia Entidad Cooperativa",
+      "slug": "aseguradora-solidaria-de-colombia-ltda-entidad-cooperativa-3",
+      "status": "ok",
+      "pdfs": 5,
+      "bytes": 4533227,
+      "confidence": "high"
+    },
+    {
+      "name": "Asulado Seguros de Vida S.A.",
+      "slug": "asulado-seguros-de-vida-s-a",
+      "status": "ok",
+      "pdfs": 2,
+      "bytes": 783810,
+      "confidence": "high"
+    },
+    {
+      "name": "Axa Colpatria Seguros S.A.",
+      "slug": "axa-colpatria-seguros-s-a",
+      "status": "ok",
+      "pdfs": 5,
+      "bytes": 11731963,
+      "confidence": "high"
+    },
+    {
+      "name": "BBVA Seguros Colombia S.A.",
+      "slug": "bbva-seguros-colombia-s-a",
+      "status": "ok",
+      "pdfs": 35,
+      "bytes": 63865379,
+      "confidence": "high"
+    },
+    {
+      "name": "Berkley Internacional Seguros Colombia S.A.",
+      "slug": "berkley-internacional-seguros-colombia-s-a",
+      "status": "ok",
+      "pdfs": 5,
+      "bytes": 2347428,
+      "confidence": "medium"
+    },
+    {
+      "name": "BMI Colombia Compañía de Seguros de Vida S.A.",
+      "slug": "bmi-colombia-compania-de-seguros-de-vida-s-a",
+      "status": "ok",
+      "pdfs": 5,
+      "bytes": 2187307,
+      "confidence": "high"
+    },
+    {
+      "name": "Cardif Colombia Seguros Generales S.A.",
+      "slug": "cardif-colombia-seguros-generales-s-a",
+      "status": "ok",
+      "pdfs": 722,
+      "bytes": 331928497,
+      "confidence": "high"
+    },
+    {
+      "name": "Cesce Colombia S.A. Compañía de seguros",
+      "slug": "segurexpo-de-colombia-s-a",
+      "status": "ok",
+      "pdfs": 19,
+      "bytes": 16451552,
+      "confidence": "high"
+    },
+    {
+      "name": "CHUBB Seguros Colombia S.A.",
+      "slug": "chubb-seguros-colombia-s-a",
+      "status": "ok",
+      "pdfs": 198,
+      "bytes": 51802126,
+      "confidence": "high"
+    },
+    {
+      "name": "Coface Colombia Seguros de Crédito S.A.",
+      "slug": "coface-colombia-seguros-de-credito-s-a",
+      "status": "ok",
+      "pdfs": 5,
+      "bytes": 1766430,
+      "confidence": "high"
+    },
+    {
+      "name": "Colmena Seguros S.A.",
+      "slug": "colmena-seguros-s-a",
+      "status": "ok",
+      "pdfs": 118,
+      "bytes": 121591240,
+      "confidence": "high"
+    },
+    {
+      "name": "Colsanitas Seguros",
+      "slug": "colsanitas-seguros",
+      "status": "ok",
+      "pdfs": 4,
+      "bytes": 2764165,
+      "confidence": "medium"
+    },
+    {
+      "name": "Compañía Aseguradora de Fianzas S.A. Confianza",
+      "slug": "compania-aseguradora-de-fianzas-s-a-confianza",
+      "status": "ok",
+      "pdfs": 10,
+      "bytes": 4464426,
+      "confidence": "high"
+    },
+    {
+      "name": "Compañía de Seguros de Vida Aurora S.A.",
+      "slug": "compania-de-seguros-de-vida-aurora-s-a",
+      "status": "ok",
+      "pdfs": 5,
+      "bytes": 5460873,
+      "confidence": "medium"
+    },
+    {
+      "name": "EKG Compañía de Seguros de Vida S.A.",
+      "slug": "ekg-compania-de-seguros-de-vida-s-a",
+      "status": "ok",
+      "pdfs": 5,
+      "bytes": 3791337,
+      "confidence": "medium"
+    },
+    {
+      "name": "Everest Compañía de Seguros Generales Colombia S.A.",
+      "slug": "everest-compania-de-seguros-generales-colombia-s-a",
+      "status": "ok",
+      "pdfs": 5,
+      "bytes": 5503852,
+      "confidence": "high"
+    },
+    {
+      "name": "Global Seguros",
+      "slug": "global-seguros",
+      "status": "ok",
+      "pdfs": 43,
+      "bytes": 54299024,
+      "confidence": "high"
+    },
+    {
+      "name": "HDI Seguros Colombia S.A.",
+      "slug": "hdi-seguros-colombia-s-a",
+      "status": "ok",
+      "pdfs": 5,
+      "bytes": 2803054,
+      "confidence": "high"
+    },
+    {
+      "name": "La Equidad Seguros Generales Organismo Cooperativo",
+      "slug": "la-equidad-seguros-generales-organismo-cooperativo-2",
+      "status": "ok",
+      "pdfs": 7,
+      "bytes": 32880720,
+      "confidence": "medium"
+    },
+    {
+      "name": "La Previsora S.A. Compañía de Seguros",
+      "slug": "la-previsora-s-a-compania-de-seguros",
+      "status": "ok",
+      "pdfs": 6,
+      "bytes": 2649614,
+      "confidence": "high"
+    },
+    {
+      "name": "Liberty Colombia Compañía de Seguros S.A.",
+      "slug": "liberty-colombia-compania-de-seguros-s-a",
+      "status": "ok",
+      "pdfs": 15,
+      "bytes": 8457773,
+      "confidence": "high"
+    },
+    {
+      "name": "Mapfre Seguros Generales de Colombia S.A.",
+      "slug": "mapfre-seguros-generales-de-colombia-s-a",
+      "status": "ok",
+      "pdfs": 5,
+      "bytes": 2690663,
+      "confidence": "high"
+    },
+    {
+      "name": "MetLife Colombia Seguros de Vida S.A.",
+      "slug": "metlife-colombia-seguros-de-vida-s-a",
+      "status": "ok",
+      "pdfs": 108,
+      "bytes": 82933596,
+      "confidence": "high"
+    },
+    {
+      "name": "Nacional de seguros S.A.",
+      "slug": "nacional-de-seguros-s-a",
+      "status": "ok",
+      "pdfs": 10,
+      "bytes": 3014709,
+      "confidence": "high"
+    },
+    {
+      "name": "Pan American Life de Colombia Compañía de Seguros S.A.",
+      "slug": "pan-american-life-de-colombia-compania-de-seguros-s-a",
+      "status": "ok",
+      "pdfs": 5,
+      "bytes": 2400518,
+      "confidence": "medium"
+    },
+    {
+      "name": "Positiva Compañía de Seguros S.A.",
+      "slug": "positiva-compania-de-seguros-s-a",
+      "status": "ok",
+      "pdfs": 32,
+      "bytes": 37341856,
+      "confidence": "high"
+    },
+    {
+      "name": "PROAGRO",
+      "slug": "proagro",
+      "status": "blocked",
+      "pdfs": 0,
+      "bytes": 0,
+      "confidence": "low"
+    },
+    {
+      "name": "Quálitas Compañía de Seguros Colombia S.A.",
+      "slug": "qualitas-compania-de-seguros-colombia-s-a",
+      "status": "ok",
+      "pdfs": 3,
+      "bytes": 10320101,
+      "confidence": "high"
+    },
+    {
+      "name": "SBS Seguros Colombia S.A",
+      "slug": "sbs-seguros-colombia-s-a",
+      "status": "ok",
+      "pdfs": 5,
+      "bytes": 2188488,
+      "confidence": "medium"
+    },
+    {
+      "name": "Seguros Alfa",
+      "slug": "seguros-alfa",
+      "status": "ok",
+      "pdfs": 3,
+      "bytes": 688570,
+      "confidence": "medium"
+    },
+    {
+      "name": "Seguros Bolívar S.A.",
+      "slug": "seguros-bolivar-s-a",
+      "status": "ok",
+      "pdfs": 5,
+      "bytes": 3257879,
+      "confidence": "medium"
+    },
+    {
+      "name": "Seguros del Estado",
+      "slug": "seguros-del-estado",
+      "status": "ok",
+      "pdfs": 58,
+      "bytes": 35889292,
+      "confidence": "high"
+    },
+    {
+      "name": "Seguros Generales Suramericana S.A.",
+      "slug": "seguros-generales-suramericana-s-a",
+      "status": "ok",
+      "pdfs": 4,
+      "bytes": 5613850,
+      "confidence": "high"
+    },
+    {
+      "name": "Seguros Mundial",
+      "slug": "seguros-mundial-2",
+      "status": "ok",
+      "pdfs": 27,
+      "bytes": 33706596,
+      "confidence": "high"
+    },
+    {
+      "name": "Skandia Seguros de Vida S.A.",
+      "slug": "skandia-seguros-de-vida-s-a",
+      "status": "ok",
+      "pdfs": 4,
+      "bytes": 1521625,
+      "confidence": "high"
+    },
+    {
+      "name": "Solunion Colombia Seguros de crédito S.A.",
+      "slug": "solunion-colombia-seguros-de-credito-s-a",
+      "status": "ok",
+      "pdfs": 9,
+      "bytes": 2495193,
+      "confidence": "high"
+    },
+    {
+      "name": "Zurich Colombia Seguros S.A.",
+      "slug": "zurich-colombia-seguros-s-a",
+      "status": "ok",
+      "pdfs": 2,
+      "bytes": 760778,
+      "confidence": "medium"
+    }
+  ]
+}
