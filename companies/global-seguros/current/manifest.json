@@ -1,0 +1,351 @@
+{
+  "slug": "global-seguros",
+  "name": "Global Seguros",
+  "updated": "2026-09-11T16:02:39.691394+00:00",
+  "files": [
+    {
+      "filename": "ANEXO-RENTA-DIARIA-POR-HOSPITALIZACION-VERSION-2011.pdf",
+      "sha256": "1028df4ae59c77708778cc6fd8ea0135603903f6609028cf5589f4393782163e",
+      "bytes": 114762,
+      "kind": "anexo",
+      "source_url": "https://cdn.globalseguroscolombia.com/public/2025/07/ANEXO-RENTA-DIARIA-POR-HOSPITALIZACION-VERSION-2011.pdf",
+      "title": "Anexo renta diaria por hospitalización"
+    },
+    {
+      "filename": "Anexo-Poliza-Seguro-GlobalMas-Futuro-AH.pdf",
+      "sha256": "6ebb996581b5c7e69e1dc79452ec88549d8856ddff53f12edd87b72e5e8d921a",
+      "bytes": 459395,
+      "kind": "anexo",
+      "source_url": "https://cdn.globalseguroscolombia.com/public/2026/04/Anexo-Póliza-Seguro-GlobalMás-Futuro-AH.pdf",
+      "title": "Ahorro"
+    },
+    {
+      "filename": "Anexo-Poliza-Seguro-GlobalMas-Futuro-EG.pdf",
+      "sha256": "5093f2627fdb752d6ccd5ea190e1dc1c69419ec6b6526d8dd210d077941a0e97",
+      "bytes": 470586,
+      "kind": "anexo",
+      "source_url": "https://cdn.globalseguroscolombia.com/public/2026/04/Anexo-Póliza-Seguro-GlobalMás-Futuro-EG.pdf",
+      "title": "Enfermedades graves"
+    },
+    {
+      "filename": "Anexo-Poliza-Seguro-GlobalMas-Futuro-ITP.pdf",
+      "sha256": "831b493ed168effb3c28ac838411edb1bc0b734d0e5c8d9b7fd69da9ee7abae5",
+      "bytes": 478940,
+      "kind": "anexo",
+      "source_url": "https://cdn.globalseguroscolombia.com/public/2026/04/Anexo-Póliza-Seguro-GlobalMás-Futuro-ITP.pdf",
+      "title": "Incapacidad total y permanente"
+    },
+    {
+      "filename": "Anexo-del-seguro-GlobalLife-INDX-Amparo-EG.pdf",
+      "sha256": "cd20d6df822814b4d228c2dda365c1debdcad263849b3d7c0a317e98e2d49a28",
+      "bytes": 266817,
+      "kind": "anexo",
+      "source_url": "https://cdn.globalseguroscolombia.com/public/2025/07/Anexo-del-seguro-GlobalLife-INDX-Amparo-EG.pdf",
+      "title": "Enfermedades graves"
+    },
+    {
+      "filename": "Anexo-del-seguro-GlobalLife-INDX-Amparo-ITP.pdf",
+      "sha256": "9fdf77eaca37b37b1bbfa4ccd3cfca9dd602a3cf0a22fafff1ed36f2315f24c4",
+      "bytes": 217170,
+      "kind": "anexo",
+      "source_url": "https://cdn.globalseguroscolombia.com/public/2025/07/Anexo-del-seguro-GlobalLife-INDX-Amparo-ITP.pdf",
+      "title": "Incapacidad total y permanente"
+    },
+    {
+      "filename": "Anexo-del-seguro-GlobalLife-INDX-Amparo-T-10.pdf",
+      "sha256": "57cac6c1fe09730321d02546d45635dd4681413764eebc541c69a5584870eea0",
+      "bytes": 202890,
+      "kind": "anexo",
+      "source_url": "https://cdn.globalseguroscolombia.com/public/2025/07/Anexo-del-seguro-GlobalLife-INDX-Amparo-T-10.pdf",
+      "title": "Cobertura adicional por muerte"
+    },
+    {
+      "filename": "CLAUSULADO-ANEXO-AL-SEGURO-VIDA-PROTECCION-FAMILIAR.pdf",
+      "sha256": "0465d6b0ac14f4b1345a87a019df73eb89d85965253f9e32ab7e8263ade711c2",
+      "bytes": 3964942,
+      "kind": "anexo",
+      "source_url": "https://cdn.globalseguroscolombia.com/public/2026/07/CLAUSULADO-ANEXO-AL-SEGURO-VIDA-PROTECCIO%CC%81N-FAMILIAR.pdf",
+      "title": "Anexo Vida Protección Familiar"
+    },
+    {
+      "filename": "CLAUSULADO-ANEXO-VIDA-PROTECCION-SEMESTRES.pdf",
+      "sha256": "8f0bd86fc87b47d31fd1eeccac1a7a6da3e32cbbd1f3c459b459bf10f0a210c9",
+      "bytes": 3963500,
+      "kind": "anexo",
+      "source_url": "https://cdn.globalseguroscolombia.com/public/2026/07/CLAUSULADO-ANEXO-VIDA-PROTECCIÓN-SEMESTRES.pdf",
+      "title": "Vida Protección Familiar Semestres"
+    },
+    {
+      "filename": "CLAUSULADO-Poliza-GlobalUniversidad-360-Semestres_.pdf",
+      "sha256": "60f25c00d077c409bbfe48935e62b0d537623cf8bd1e54f515ebd5bcd987045d",
+      "bytes": 3254148,
+      "kind": "condiciones",
+      "source_url": "https://cdn.globalseguroscolombia.com/public/2026/07/CLAUSULADO-Póliza-GlobalUniversidad-360-Semestres_.pdf",
+      "title": "Ver Clausulado"
+    },
+    {
+      "filename": "CLAUSULADO-Poliza-GlobalUniversidad-360_.pdf",
+      "sha256": "1b0e7f664ac4c749d84dcf87e7bf5a54f9978d679f24811584ce4b7fe9dac948",
+      "bytes": 3316960,
+      "kind": "condiciones",
+      "source_url": "https://cdn.globalseguroscolombia.com/public/2026/07/CLAUSULADO-Po%CC%81liza-GlobalUniversidad-360_.pdf",
+      "title": "Clausulado Póliza GlobalUniversidad 360"
+    },
+    {
+      "filename": "CLAUSULADO-RENTA-BIENESTAR-UNIVERSITARIA_.pdf",
+      "sha256": "b4911982e829f4cfe2bd6a01b76ffca6ec8782c593b1def1a1dd02df9403f71b",
+      "bytes": 2895563,
+      "kind": "condiciones",
+      "source_url": "https://cdn.globalseguroscolombia.com/public/2026/07/CLAUSULADO-RENTA-BIENESTAR-UNIVERSITARIA_.pdf",
+      "title": "Renta Bienestar Universitaria"
+    },
+    {
+      "filename": "CLAUSULADO-RENTA-UNIVERSIDAD-360-SEMESTRAL.pdf",
+      "sha256": "52afd7cc6be77787c95829bd092d85662388ae85825bd6ef24fcc92988a0f5ca",
+      "bytes": 3383336,
+      "kind": "condiciones",
+      "source_url": "https://cdn.globalseguroscolombia.com/public/2026/07/CLAUSULADO-RENTA-UNIVERSIDAD-360-SEMESTRAL.pdf",
+      "title": "Renta Bienestar Universitaria Semestres"
+    },
+    {
+      "filename": "CLAUSULADO-VIDA-COMPLEMENTO-SEMESTRES.pdf",
+      "sha256": "3763ca468e04ea86147e68bf2235c4cd0ac0b7117ff393df4906bc2dd9a1266f",
+      "bytes": 1860396,
+      "kind": "condiciones",
+      "source_url": "https://cdn.globalseguroscolombia.com/public/2026/07/CLAUSULADO-VIDA-COMPLEMENTO-SEMESTRES.pdf",
+      "title": "Vida Complemento Semestres"
+    },
+    {
+      "filename": "CLAUSULADO-VIDA-CONTINUIDAD-ESCOLAR.pdf",
+      "sha256": "62bd754af7f6758c3611215a49554782947d5c6ebe36232d1f7696281a0d9d32",
+      "bytes": 1869395,
+      "kind": "condiciones",
+      "source_url": "https://cdn.globalseguroscolombia.com/public/2026/07/CLAUSULADO-VIDA-CONTINUIDAD-ESCOLAR.pdf",
+      "title": "Vida Continuidad Escolar"
+    },
+    {
+      "filename": "Clausulado20Educacion20Flex202-2-comprimido-1.pdf",
+      "sha256": "3b2b718307f4c84d2e305a5baefeffc2256e9786b4839a4928afcd65af8716fc",
+      "bytes": 999555,
+      "kind": "condiciones",
+      "source_url": "https://cdn.globalseguroscolombia.com/public/2026/04/Clausulado20Educacion20Flex202-2-comprimido-1.pdf",
+      "title": "Ver clausulado"
+    },
+    {
+      "filename": "Documentos-Reclamos.pdf",
+      "sha256": "0f9b4c0fdf3634f3a9d9385851cdace3e327bc69727e290bdc6e927b4e6b2a97",
+      "bytes": 302965,
+      "kind": "anexo",
+      "source_url": "https://cdn.globalseguroscolombia.com/public/2025/07/Documentos-Reclamos.pdf",
+      "title": "Ver anexo"
+    },
+    {
+      "filename": "GS-Poliza-Mas-Profesional-2.pdf",
+      "sha256": "28114a4a1d20f8bda6ebc6ed03f42fa27031a210420eed3f2653a4298c8aef94",
+      "bytes": 1383322,
+      "kind": "condiciones",
+      "source_url": "https://cdn.globalseguroscolombia.com/public/2026/04/GS-Poliza-Mas-Profesional-2.pdf",
+      "title": "Ver clausulado"
+    },
+    {
+      "filename": "GS-Poliza-Segura-Plus-Semestres-1.pdf",
+      "sha256": "e3601218bdd994036cdd70e10d1e00c8d3ed79f2d1d7b47fceedd5dc86c5f624",
+      "bytes": 1617490,
+      "kind": "condiciones",
+      "source_url": "https://cdn.globalseguroscolombia.com/public/2026/04/GS-Poliza-Segura-Plus-Semestres-1.pdf",
+      "title": "Ver clausulado"
+    },
+    {
+      "filename": "GS-Poliza-Universidad-Segura-Plus-1.pdf",
+      "sha256": "f45645d582c712330093cf38071f767829960fd88b6fc6a33438c6152aff61f5",
+      "bytes": 1625304,
+      "kind": "condiciones",
+      "source_url": "https://cdn.globalseguroscolombia.com/public/2026/04/GS-Poliza-Universidad-Segura-Plus-1.pdf",
+      "title": "Ver clausulado"
+    },
+    {
+      "filename": "Global-Vida-Grupo.pdf",
+      "sha256": "6e5a3cf2d20b584c6e93c2e7ec51621cf943b0dadea81b167d882d3fe5fcc30a",
+      "bytes": 892961,
+      "kind": "condiciones",
+      "source_url": "https://cdn.globalseguroscolombia.com/public/2025/07/Global-Vida-Grupo.pdf",
+      "title": "Ver clausulado"
+    },
+    {
+      "filename": "GlobalEducacion-Protegida-.pdf",
+      "sha256": "1b9b2d5cecfd063f6e56fc04f1a29067809d10fabe32eea5c1821a455e3eb8f7",
+      "bytes": 129225,
+      "kind": "anexo",
+      "source_url": "https://cdn.globalseguroscolombia.com/public/2025/07/GlobalEducacion-Protegida-.pdf",
+      "title": "Ver anexo"
+    },
+    {
+      "filename": "GlobalProteccion-Garantizada-.pdf",
+      "sha256": "7f1e7b16a4f7082013c768cbc1f387c8213be00f4153237045f2048e6cb92cf1",
+      "bytes": 134066,
+      "kind": "anexo",
+      "source_url": "https://cdn.globalseguroscolombia.com/public/2025/07/GlobalProteccion-Garantizada-.pdf",
+      "title": "Ver anexo"
+    },
+    {
+      "filename": "GlobalSemestres-.pdf",
+      "sha256": "72fbee1dc0696bf26169197b7fe5f7ed44c7107c221c83d837953077a18efa7f",
+      "bytes": 129851,
+      "kind": "anexo",
+      "source_url": "https://cdn.globalseguroscolombia.com/public/2026/04/GlobalSemestres-.pdf",
+      "title": "Ver anexo"
+    },
+    {
+      "filename": "GlobalUniversidad-Garantizada-.pdf",
+      "sha256": "73f2acf2e3abd8cc1c1141c11e9e59a448723dec3be1ddb5a4d7a3d55b4fd0f2",
+      "bytes": 129849,
+      "kind": "anexo",
+      "source_url": "https://cdn.globalseguroscolombia.com/public/2026/04/GlobalUniversidad-Garantizada-.pdf",
+      "title": "Ver anexo"
+    },
+    {
+      "filename": "GlobalUniversidad-Garantizada-Platino-.pdf",
+      "sha256": "5b3cf7ed57bba0dbf8bc3d7147e19bb058194f4f1795da4be7f2cf920171919d",
+      "bytes": 129881,
+      "kind": "anexo",
+      "source_url": "https://cdn.globalseguroscolombia.com/public/2026/04/GlobalUniversidad-Garantizada-Platino-.pdf",
+      "title": "Ver anexo"
+    },
+    {
+      "filename": "GlobalVida-Grupo-.pdf",
+      "sha256": "b2a872708442d1819f4f4f0e2591e28446a03b0ebc532d485373b4da313ecd09",
+      "bytes": 136339,
+      "kind": "anexo",
+      "source_url": "https://cdn.globalseguroscolombia.com/public/2025/07/GlobalVida-Grupo-.pdf",
+      "title": "Ver anexo"
+    },
+    {
+      "filename": "POLIZA-SEGURO-EDUCATIVO-GlobalSemestres-2025.pdf",
+      "sha256": "e50ecd489b610716b0ecb1b55d60cd14ead7c64c06529b8b6920c755b7ca73d1",
+      "bytes": 1624166,
+      "kind": "condiciones",
+      "source_url": "https://cdn.globalseguroscolombia.com/public/2026/04/POLIZA-SEGURO-EDUCATIVO-GlobalSemestres-2025.pdf",
+      "title": "Ver clausulado"
+    },
+    {
+      "filename": "POLIZA-SEGURO-EDUCATIVO-GlobalUniversidad-Garantizada-Platino-2025.pdf",
+      "sha256": "bcbbf6e03a55c9aa1d6912f5fbbef101132dd54bafdc3ff6d8b3f8bed8b46263",
+      "bytes": 3841478,
+      "kind": "condiciones",
+      "source_url": "https://cdn.globalseguroscolombia.com/public/2026/04/POLIZA-SEGURO-EDUCATIVO-GlobalUniversidad-Garantizada-Platino-2025.pdf",
+      "title": "Ver clausulado"
+    },
+    {
+      "filename": "POLIZADESEGURODEVIDAINDIVIDUALTEMPORALUNORENOVABLEVERSION01-08-2013.pdf",
+      "sha256": "2976d97e053a2f3cb68889ee28fad0f64033b938ef9a0e75b73a1306708abf71",
+      "bytes": 412919,
+      "kind": "condiciones",
+      "source_url": "https://cdn.globalseguroscolombia.com/public/2025/07/POLIZADESEGURODEVIDAINDIVIDUALTEMPORALUNORENOVABLEVERSION01-08-2013.pdf",
+      "title": "Vida Individual Temporal Uno Renovable"
+    },
+    {
+      "filename": "Poliza-GlobalUniversidad-Posgrado-Plus.pdf",
+      "sha256": "1bd6c643ee657b93bf36b03b290fc4e49ca6c36f01d482dab1feb7580661d7bc",
+      "bytes": 183209,
+      "kind": "condiciones",
+      "source_url": "https://cdn.globalseguroscolombia.com/public/2026/04/Póliza-GlobalUniversidad-Posgrado-Plus.pdf",
+      "title": "Ver clausulado"
+    },
+    {
+      "filename": "Poliza-GlobalUniversidad-Posgrado.pdf",
+      "sha256": "9ee2ec3d30957cc06ee46274bbbe2b496832928bb08f2b361cb0a998e314cbfc",
+      "bytes": 187190,
+      "kind": "condiciones",
+      "source_url": "https://cdn.globalseguroscolombia.com/public/2026/04/Póliza-GlobalUniversidad-Posgrado.pdf",
+      "title": "Ver clausulado"
+    },
+    {
+      "filename": "Poliza-Seguro-GlobalUniversidad-Garantizada-2025.pdf",
+      "sha256": "5546ee70d73f0e7b3326c218e1c58d40ece530b5c23d48aeb0736d9d2e0cb4b5",
+      "bytes": 3169860,
+      "kind": "condiciones",
+      "source_url": "https://cdn.globalseguroscolombia.com/public/2026/04/Poliza-Seguro-GlobalUniversidad-Garantizada-2025.pdf",
+      "title": "Ver clausulado"
+    },
+    {
+      "filename": "Poliza-Vida-Individual-GlobalLife-INDX-Amparo-Basico.pdf",
+      "sha256": "8496907255ad2f34536504db4fd3990ff557dde209a3c2466ff1fb77fbe8a3b5",
+      "bytes": 271600,
+      "kind": "condiciones",
+      "source_url": "https://cdn.globalseguroscolombia.com/public/2026/05/Póliza-Vida-Individual-GlobalLife-INDX-Amparo-Básico.pdf",
+      "title": "Ver clausulado"
+    },
+    {
+      "filename": "Poliza-de-Seguro-GlobalMas-Futuro.pdf",
+      "sha256": "bd27e85443c86032604ea06bf30f003e3971e4d4f7acdaf92f47dc6c7ba6abb9",
+      "bytes": 595351,
+      "kind": "condiciones",
+      "source_url": "https://cdn.globalseguroscolombia.com/public/2026/04/Póliza-de-Seguro-GlobalMás-Futuro.pdf",
+      "title": "Ver clausulado"
+    },
+    {
+      "filename": "Poliza_de_Accidentes_Personales_Colectivo_.pdf",
+      "sha256": "04a0a802951e99888eeb41cd66c474439f2cdd6f387c240bcf5b5c6bfe9a5ab6",
+      "bytes": 7818765,
+      "kind": "condiciones",
+      "source_url": "https://cdn.globalseguroscolombia.com/public/2025/07/Poliza_de_Accidentes_Personales_Colectivo_.pdf",
+      "title": "Ver Clausulado Accidentes Personales Colectivo"
+    },
+    {
+      "filename": "Poliza_de_Seguro_de_Accidentes_Personales_Individuales.pdf",
+      "sha256": "9a23603d990b70bc469bb153b5cfcc5a1ef783f0eebbe75fecb1ade5513b2363",
+      "bytes": 250180,
+      "kind": "condiciones",
+      "source_url": "https://cdn.globalseguroscolombia.com/public/2025/07/Poliza_de_Seguro_de_Accidentes_Personales_Individuales.pdf",
+      "title": "Ver Clausulado Accidentes Personales Individuales"
+    },
+    {
+      "filename": "TARIFAS-GLOBALGARANTIZADA-360.pdf",
+      "sha256": "7b80022f2eb3ca6f2b419eb7fc8242ab194875ba44eb96af2793f82c85579252",
+      "bytes": 110035,
+      "kind": "tarifario",
+      "source_url": "https://cdn.globalseguroscolombia.com/public/2026/07/TARIFAS-GLOBALGARANTIZADA-360.pdf",
+      "title": "Tarifas GlobalGarantizada 360"
+    },
+    {
+      "filename": "TARIFAS-GUP-GUG-GS-III-TRIMESTRE-2026.pdf",
+      "sha256": "a8891c4ab7896d8240d9b430c654f3f9700379b7a7b2c1ee9891eba6df2e8f88",
+      "bytes": 292043,
+      "kind": "tarifario",
+      "source_url": "https://cdn.globalseguroscolombia.com/public/2026/07/TARIFAS-GUP-GUG-GS-III-TRIMESTRE-2026.pdf",
+      "title": "Tarifas GUP/GUG/GS III Trimestre 2026"
+    },
+    {
+      "filename": "VIDAEducacionProtegida.pdf",
+      "sha256": "b7d836059be92ff8a81f7f164ce31fa0329ca4e6e99a9d4033178d3264b94e31",
+      "bytes": 59335,
+      "kind": "condiciones",
+      "source_url": "https://cdn.globalseguroscolombia.com/public/2025/07/VIDAEducacionProtegida.pdf",
+      "title": "Ver clausulado"
+    },
+    {
+      "filename": "VIDA_ANEXODEINCAPACIDADTOTALYPERMANENTEVERSION01-08-2013.pdf",
+      "sha256": "726c9db7bb0eeb9d3577ccb8a64b41fc5cae00976be20c0887548e075b69d85a",
+      "bytes": 306927,
+      "kind": "anexo",
+      "source_url": "https://cdn.globalseguroscolombia.com/public/2026/04/VIDA_ANEXODEINCAPACIDADTOTALYPERMANENTEVERSION01-08-2013.pdf",
+      "title": "Incapacidad total y permanente"
+    },
+    {
+      "filename": "VIDA_ANEXOENFERMEDADESGRAVESSUMAADICIONALVERSION01-08-2013.pdf",
+      "sha256": "631cf8ac6f9bf2eeb516838dcbd4e3a634b261b8695c0067d2d6c7e43bff9878",
+      "bytes": 539152,
+      "kind": "anexo",
+      "source_url": "https://cdn.globalseguroscolombia.com/public/2026/04/VIDA_ANEXOENFERMEDADESGRAVESSUMAADICIONALVERSION01-08-2013.pdf",
+      "title": "Enfermedades graves suma adicional"
+    },
+    {
+      "filename": "VIDA_ANEXOEXONERACIONPAGOPRIMASVERSION01-08-2013.pdf",
+      "sha256": "0ffa3c9ea9cf5732219eb6c20e41d855483de036ff0cfa4c28b8b4c8d5395e76",
+      "bytes": 307206,
+      "kind": "anexo",
+      "source_url": "https://cdn.globalseguroscolombia.com/public/2026/04/VIDA_ANEXOEXONERACIONPAGOPRIMASVERSION01-08-2013.pdf",
+      "title": "Exoneración en el pago de primas del amparo básico"
+    }
+  ]
+}
