@@ -1,0 +1,223 @@
+{
+  "slug": "seguros-mundial-2",
+  "name": "Seguros Mundial",
+  "updated": "2026-09-11T16:04:48.623291+00:00",
+  "files": [
+    {
+      "filename": "00-SEGURISIMO-GENERAL-Jun-02.pdf",
+      "sha256": "461903c222ec0f1570a86a304a17eb062e99a4deeb0183276970e239fd04f6a8",
+      "bytes": 866797,
+      "kind": "condiciones",
+      "source_url": "https://www.segurosmundial.com.co/media/00%20SEGURISIMO%20GENERAL%20Jun%2002.pdf",
+      "title": "Segurísimo General Jun 02"
+    },
+    {
+      "filename": "01-SEGURISIMO-PLAN-1-Jun-02.pdf",
+      "sha256": "b7bef9a2ff6c5d74aac8259341f0375fea4374505904b3392b4392e2fed3e8a6",
+      "bytes": 1201590,
+      "kind": "condiciones",
+      "source_url": "https://www.segurosmundial.com.co/media/01%20SEGURISIMO%20PLAN%201%20Jun%2002.pdf",
+      "title": "Clausulado PLAN 1"
+    },
+    {
+      "filename": "02-SEGURISIMO-PLAN-2-Jun-02.pdf",
+      "sha256": "3dbaaf5083e135f4be82c5c91db00bdb25e020b616534d75bebd4eb26e28f223",
+      "bytes": 1401147,
+      "kind": "condiciones",
+      "source_url": "https://www.segurosmundial.com.co/media/02%20SEGURISIMO%20PLAN%202%20Jun%2002.pdf",
+      "title": "Clausulado PLAN 2"
+    },
+    {
+      "filename": "03-SEGURISIMO-PLAN-3-Jun-02.pdf",
+      "sha256": "5b5478bdeefc0c57cf51a70e419827d2259345a0758f0edaa3a62ecf1541dba7",
+      "bytes": 916810,
+      "kind": "condiciones",
+      "source_url": "https://www.segurosmundial.com.co/media/03%20SEGURISIMO%20PLAN%203%20Jun%2002.pdf",
+      "title": "Clausulado PLAN 3"
+    },
+    {
+      "filename": "04-SEGURISIMO-PLAN-4-Jun-02.pdf",
+      "sha256": "dd1247623907859595723dfe90d1a80552152c1dfee4e18c14f7e1de9fd1822c",
+      "bytes": 1101013,
+      "kind": "condiciones",
+      "source_url": "https://www.segurosmundial.com.co/media/04%20SEGURISIMO%20PLAN%204%20Jun%2002.pdf",
+      "title": "Clausulado PLAN 4"
+    },
+    {
+      "filename": "05-SEGURISIMO-PLAN-5-Jun-02.pdf",
+      "sha256": "9f3c952875abd468c317d68cf7d75743c7136c1701c44be0cdcea87fa300c40d",
+      "bytes": 958057,
+      "kind": "condiciones",
+      "source_url": "https://www.segurosmundial.com.co/media/05%20SEGURISIMO%20PLAN%205%20Jun%2002.pdf",
+      "title": "Clausulado PLAN 5"
+    },
+    {
+      "filename": "06-SEGURISIMO-PLAN-6-Jun-02.pdf",
+      "sha256": "18b27116e0e62b406ef809a4527293bbcac62c816de409ef078c8c409117e6e5",
+      "bytes": 1101653,
+      "kind": "condiciones",
+      "source_url": "https://www.segurosmundial.com.co/media/06%20SEGURISIMO%20PLAN%206%20Jun%2002.pdf",
+      "title": "Clausulado PLAN 6"
+    },
+    {
+      "filename": "07-SEGURISIMO-PLAN-7-Jun-02.pdf",
+      "sha256": "1ec8b95953163a96270d5afe67cc5b9b6f91b5926adf3f7fe686c3ac71dd252d",
+      "bytes": 1018101,
+      "kind": "condiciones",
+      "source_url": "https://www.segurosmundial.com.co/media/07%20SEGURISIMO%20PLAN%207%20Jun%2002.pdf",
+      "title": "Clausulado PLAN 7"
+    },
+    {
+      "filename": "08-SEGURISIMO-PLAN-8-Jun-02.pdf",
+      "sha256": "c75befa9cf4a2525b3db4a9ff4c270acf7153aa75b51c187732a67bed0463dab",
+      "bytes": 1224897,
+      "kind": "condiciones",
+      "source_url": "https://www.segurosmundial.com.co/media/08%20SEGURISIMO%20PLAN%208%20Jun%2002.pdf",
+      "title": "Clausulado PLAN 8"
+    },
+    {
+      "filename": "09-SEGURISIMO-PLAN-9-Jun-02.pdf",
+      "sha256": "37b999b197f0c1b0c4c2bbdb6094661b8fbc2e1068e2a36f280a53682eaccf8a",
+      "bytes": 1071872,
+      "kind": "condiciones",
+      "source_url": "https://www.segurosmundial.com.co/media/09%20SEGURISIMO%20PLAN%209%20Jun%2002.pdf",
+      "title": "Clausulado PLAN 9"
+    },
+    {
+      "filename": "10-SEGURISIMO-PLAN-10-Jun-02.pdf",
+      "sha256": "101ef37c6652fd37ce28f279482ad550105bca4fed0c33d7128990fade053927",
+      "bytes": 1122074,
+      "kind": "condiciones",
+      "source_url": "https://www.segurosmundial.com.co/media/10%20SEGURISIMO%20PLAN%2010%20Jun%2002.pdf",
+      "title": "Clausulado PLAN 10"
+    },
+    {
+      "filename": "11-SEGURISIMO-PLAN-11-Jun-02.pdf",
+      "sha256": "facc5a280208228b890767bb3a1813987faf56478f3f3341bd0f2b9043531ada",
+      "bytes": 1029833,
+      "kind": "condiciones",
+      "source_url": "https://www.segurosmundial.com.co/media/11%20SEGURISIMO%20PLAN%2011%20Jun%2002.pdf",
+      "title": "Clausulado PLAN 11"
+    },
+    {
+      "filename": "12-SEGURISIMO-PLAN-12-Jun-02.pdf",
+      "sha256": "f4aa49168aa860d3647b386f279ec6b070c0e8975c75be31de076a77ddc4fdf2",
+      "bytes": 1132603,
+      "kind": "condiciones",
+      "source_url": "https://www.segurosmundial.com.co/media/12%20SEGURISIMO%20PLAN%2012%20Jun%2002.pdf",
+      "title": "Clausulado PLAN 12"
+    },
+    {
+      "filename": "13-SEGURISIMO-PLAN-13-Jun-02.pdf",
+      "sha256": "e8a633befe75280fbfadc8d2b1215df0ebc0084d5f136b853344f0e17c318552",
+      "bytes": 1295326,
+      "kind": "condiciones",
+      "source_url": "https://www.segurosmundial.com.co/media/13%20SEGURISIMO%20PLAN%2013%20Jun%2002.pdf",
+      "title": "Clausulado PLAN 13"
+    },
+    {
+      "filename": "14-SEGURISIMO-PLAN-14-Jun-02.pdf",
+      "sha256": "74e97a4b2adaef469e067842c503fba19f3fa7844493c3d441a394fb9d4a7ace",
+      "bytes": 1281839,
+      "kind": "condiciones",
+      "source_url": "https://www.segurosmundial.com.co/media/14%20SEGURISIMO%20PLAN%2014%20Jun%2002.pdf",
+      "title": "Clausulado PLAN 14"
+    },
+    {
+      "filename": "15-SEGURISIMO-PLAN-15-Jun-02.pdf",
+      "sha256": "7eb9f548a46ab563d405f84c4a0072efe3e1a56404cac22642bdd23f977ed827",
+      "bytes": 1286683,
+      "kind": "condiciones",
+      "source_url": "https://www.segurosmundial.com.co/media/15%20SEGURISIMO%20PLAN%2015%20Jun%2002.pdf",
+      "title": "Clausulado PLAN 15"
+    },
+    {
+      "filename": "CLAUSULADO-SEGURISIMO-COMPLETO.pdf",
+      "sha256": "253381a264f0f173bc57474f0be2583c69987f9f18a35955e9fe76637e850c1c",
+      "bytes": 636098,
+      "kind": "condiciones",
+      "source_url": "https://www.segurosmundial.com.co/media/CLAUSULADO-SEGURISIMO-COMPLETO.pdf",
+      "title": "Clausulado Completo"
+    },
+    {
+      "filename": "CLAUSULADO_GARANTIA_EXTENDIDA.pdf",
+      "sha256": "0f1ff25edcfd556606f29963e252fad59796edfaf0759760828d4631516b133d",
+      "bytes": 706777,
+      "kind": "condiciones",
+      "source_url": "https://www.segurosmundial.com.co/media/CLAUSULADO_GARANTIA_EXTENDIDA.pdf",
+      "title": "Clausulado Garantía Extendida"
+    },
+    {
+      "filename": "Clausulado_-PLO-2021.pdf",
+      "sha256": "efe1b04e09aea2ef718970843419105d13cd9cd5ec08d75a32d42371adc74564",
+      "bytes": 492870,
+      "kind": "condiciones",
+      "source_url": "https://www.segurosmundial.com.co/media/Clausulado_%20PLO-2021.pdf",
+      "title": "Seguro de Responsabilidad Civil Extracontractual (2021)"
+    },
+    {
+      "filename": "Clausulado_Mundial_Legal_Poliza_Hogar.pdf",
+      "sha256": "a09515d076463cee22d4aa54c477112eea3786937293339c6281d7ece6b17fbc",
+      "bytes": 1558904,
+      "kind": "condiciones",
+      "source_url": "https://www.segurosmundial.com.co/media/Clausulado_Mundial_Legal_Poliza_Hogar.pdf",
+      "title": "Clausulado Mundial Legal Póliza Hogar"
+    },
+    {
+      "filename": "Clausulado_Poliza_integral_AutoLivianos.pdf",
+      "sha256": "74b91e9a6d3e42df7e68584b4e893ae656110f23cd3f1708e067b0dbef37b660",
+      "bytes": 969848,
+      "kind": "condiciones",
+      "source_url": "https://www.segurosmundial.com.co/media/Clausulado_Poliza_integral_AutoLivianos.pdf",
+      "title": "Clausulado Póliza Integral Auto Livianos"
+    },
+    {
+      "filename": "Clausulado_RCE-0.pdf",
+      "sha256": "ed619d130fd446d285966e55be6eb6b3bf6fce799d59238c964c11c22ce6bbd6",
+      "bytes": 847557,
+      "kind": "condiciones",
+      "source_url": "https://www.segurosmundial.com.co/media/Clausulado_RCE-(0).pdf",
+      "title": "Seguro de Responsabilidad Civil Extracontractual"
+    },
+    {
+      "filename": "Clausulado_RCE-2024.pdf",
+      "sha256": "b3dc64a6cdb0fea46bbf3c06ebc519066cc4661c615431f1b8bf470894fef430",
+      "bytes": 1052377,
+      "kind": "condiciones",
+      "source_url": "https://www.segurosmundial.com.co/media/Clausulado_RCE-2024.pdf",
+      "title": "Seguro de Responsabilidad Civil Extracontractual (2024)"
+    },
+    {
+      "filename": "Clausulado_RCE-ANI-2021.pdf",
+      "sha256": "45c45e51a6b3097b937df4aeb625ecf9bd8662645d241c72cb4f4c3385a97b5b",
+      "bytes": 433041,
+      "kind": "condiciones",
+      "source_url": "https://www.segurosmundial.com.co/media/Clausulado_RCE-ANI-2021.pdf",
+      "title": "Póliza única de seguro de cumplimiento para contratos estatales a favor de la agencia nacional de infraestructura – ANI (2021)"
+    },
+    {
+      "filename": "Clausulado_RCE_ANI-2024.pdf",
+      "sha256": "6bb23d3d89139278215d6b75b53cb15ab2c8b7412ed2e3b4447bcd67d0746ab6",
+      "bytes": 849789,
+      "kind": "condiciones",
+      "source_url": "https://www.segurosmundial.com.co/media/Clausulado_RCE_ANI-2024.pdf",
+      "title": "Seguro de Responsabilidad Civil Extracontractual Agencia Nacional de Infraestructura – ANI (2024)"
+    },
+    {
+      "filename": "Clausulado_RCE_ANI.pdf",
+      "sha256": "7e32f1b919393596e3109e3c6fca48b7e8ef2f688bed952b2068b3cfa71af9b7",
+      "bytes": 995410,
+      "kind": "condiciones",
+      "source_url": "https://www.segurosmundial.com.co/media/Clausulado_RCE_ANI.pdf",
+      "title": "Seguro de Responsabilidad Civil Extracontractual Agencia Nacional de Infraestructura - ANI"
+    },
+    {
+      "filename": "Condicionado_Poliza_de_Seguro_Integral_de_Danos_Para_Vehiculos_Livianos_Particulares_marzo_2025.pdf",
+      "sha256": "ecf5bfad022ef684a489b46cec9bbe2d34857fd4f3816f7722b14f9aabc1cf8e",
+      "bytes": 7153630,
+      "kind": "condiciones",
+      "source_url": "https://www.segurosmundial.com.co/media/Condicionado_Poliza_de_Seguro_Integral_de_Dan%CC%83os_Para_Vehiculos_Livianos_Particulares_marzo_2025.pdf",
+      "title": "Condicionado Integral Daños Vehículos Livianos Particulares marzo 2025"
+    }
+  ]
+}
