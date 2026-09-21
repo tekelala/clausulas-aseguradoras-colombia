@@ -10,10 +10,10 @@ Public repo: https://github.com/tekelala/clausulas-aseguradoras-colombia
 - **Out:** marketing brochures; sister entities not on the Fasecolda affiliate card (unless added later)
 - **Roster:** 39 companies from https://www.fasecolda.com/companias-afiliadas/
 
-## Status (2026-09-11)
+## Status (2026-09-21)
 
 - **38 / 39** affiliates have PDFs in `companies/` (PROAGRO blocked — no Colombian library)
-- **1511** PDFs (~960 MB), tracked by SHA-256 in `manifest.json`
+- **2212** PDFs, tracked by SHA-256 in `manifest.json`
 - Method: [WORKFLOW.md](WORKFLOW.md) · Scoreboard: [ROSTER-SCRAPE.md](ROSTER-SCRAPE.md)
 
 ## Layout
